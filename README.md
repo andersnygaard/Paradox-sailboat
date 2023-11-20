@@ -181,21 +181,11 @@ The low water line of the Paradox is a key aspect of its design philosophy. This
 
 A defining characteristic of the Paradox is its self-righting capability, a feature intrinsically connected to its low water line. The boat boasts a calculated positive righting arm curve up to 165 degrees, an impressive specification that underscores its safety and resilience in challenging conditions. This ability to self-right in the event of capsizing is not just a safety feature but also a testament to the meticulous design and engineering that underpin the Paradox.
 
-One of the unique aspects of the Paradox is its reliance on chine runners for lateral resistance. Unlike traditional sailboats that use a centerboard or a keel, the Paradox utilizes specially shaped external chine logs to maintain its course and stability. For these chine runners to function effectively, the boat's draft needs to be 1/5 of its beam. This requirement directly influences the low water line design, ensuring that the chine runners are adequately submerged to perform their role efficiently.
-
 The low water line of the Paradox plays a pivotal role in its aesthetic appeal. Sailboats are often admired for their graceful lines and elegant profiles, and the Paradox is no exception. Its sleek, low-profile design allows it to blend seamlessly with the water, presenting an unobtrusive and harmonious image. This aesthetic is not just about visual pleasure; it reflects the harmony between form and function, where every line and curve serves a purpose.
 
-From a design perspective, the low water line contributes to the Paradox's minimalistic yet functional appeal. The boat eschews superfluous design elements in favor of clean, efficient lines that emphasize its purpose as a small coastal cruiser. This design philosophy aligns with contemporary trends in minimalism, where simplicity and functionality are valued over ornate and elaborate designs.
-
-In terms of handling and performance, the low water line of the Paradox offers significant advantages. The reduced profile against wind reduces windage, making the boat easier to handle and maneuver, especially in gusty conditions. This aspect is particularly beneficial for solo sailors or small crews, who rely on the boat's ease of handling for safe and enjoyable sailing experiences.
+In terms of handling and performance, the low water line of the Paradox offers significant advantages. The reduced profile against wind reduces windage, making the boat easier to handle and maneuver, especially in gusty conditions.
 
 The impact of the low water line on the boat's performance is further evident in its efficiency in various sailing conditions. By reducing the boat's profile against waves, the Paradox is able to maintain higher speeds and better control in choppy waters. This efficiency is not just about speed; it's about the ability to navigate diverse conditions with confidence, a quality that is highly valued in the world of sailing.
-
-Another aspect where the low water line contributes to the Paradox's aesthetic appeal is in its integration with the boat's overall design. The boat's proportions, with its modest beam and length, are accentuated by the low water line, creating a balanced and proportionate profile. This balance is not just visually pleasing but also contributes to the boat's stability and handling characteristics.
-
-The low water line of the Paradox also speaks to the philosophy of Matt Layden's design approach. Layden's designs are known for their practicality, efficiency, and simplicity. The low water line is a manifestation of these principles, demonstrating how functional requirements can be elegantly integrated into the boat's design. This approach is a departure from more traditional designs, where aesthetic considerations often take precedence over functional needs.
-
-In conclusion, the low water line of the Paradox sailboat is a prime example of how functional design can harmonize with aesthetic appeal. It embodies the principles of efficiency, safety, and simplicity, while also presenting a visually appealing profile that resonates with both sailors and admirers of maritime design. The Paradox, through its low water line, showcases how thoughtful design can create a boat that is not only a joy to sail but also a pleasure to behold.
 
 ## Community and Legacy
 
