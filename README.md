@@ -15,6 +15,25 @@ One of the most striking aspects of Paradox that Yrvind emphasizes is its use of
 
 Yrvind noted an interesting aspect of Layden's sailing technique with the Paradox. He observed that Layden managed to self-steer the Paradox directly downwind by relocating his lug sail to resemble a square rigger. This adaptation demonstrates Layden's deep understanding of his boat's design and his ability to utilize its features creatively to enhance sailing performance. 
 
+## History
+
+The evolution of Matt Layden's designs leading up to the Paradox sailboat is a fascinating journey, marked by continuous innovation and practical experimentation. Two significant predecessors to the Paradox were "Swamp Thing" and "Little Cruiser," each embodying unique characteristics and lessons that influenced the design of Paradox.
+
+### Swamp Thing
+Swamp Thing, constructed in 1985, was a pivotal design in Layden's journey. It was his first microcruiser to utilize chine runners, a significant departure from the traditional leeboards used in his earlier design, Terrapin. These chine runners or external chine logs, which replaced the cumbersome leeboards, were simpler and more efficient, significantly improving the boat's upwind performance in shallow waters.
+
+Swamp Thing was relatively small, with a length of 13'2" and a beam of 3'8". Despite its size, it proved capable of long voyages, as Layden sailed it down the East Coast of the United States and out to the Bahamas. This journey was a testament to the boat's seaworthiness and Layden's skill as a sailor. The boat's design featured a simple lug sail that could be manually rolled or furled around the boom, adding to its practicality.
+
+### Little Cruiser
+Little Cruiser, built in 1988, marked another evolution in Layden's design philosophy. While similar in length to Swamp Thing, it represented a more complex design. It featured a centerboard and a battened lug sail with slab reefing, all lines leading down through the centerboard trunk into the cabin. The mast, stepped on deck, could be easily folded down with an unusual "A" frame tabernacle.
+
+The boat's design focused on creating ample interior space and ensuring the comfort and safety of its occupant in all weather conditions. Little Cruiser was well-insulated with foam, adding dryness and positive buoyancy, and was equipped with four large built-in water ballast tanks to facilitate long-range cruising.
+
+Dave and Mindy Bolduc, who acquired Little Cruiser in 1992, undertook numerous journeys in her, including seven more trips to the Bahamas. They emphasized Little Cruiser's robust construction, including a 1-inch thick plywood bottom and substantial framing, which proved invaluable during their extensive cruising, including a trip where they encountered a reef in the Bahamas. The boat's design allowed for easy beaching for repairs, highlighting its practicality for long-distance cruising.
+
+### Impact on Paradox Design
+Both Swamp Thing and Little Cruiser played crucial roles in developing the Paradox. Swamp Thing's introduction of chine runners and the simplification of the sailing rig were concepts Layden carried forward. Little Cruiser's focus on interior space, comfort, and the innovative centerboard and rigging systems also influenced Paradox's design. However, Layden, in his pursuit of optimizing performance and simplicity, chose to return to the chine runners for Paradox, finding the centerboard's benefits insufficient to warrant its complexity.
+
 ## Key features
 
 The Paradox sailboat is a remarkable micro-cruiser known for its unique features and measurements that cater to sailing enthusiasts who value efficiency, simplicity, and the ability to navigate shallow waters. This small but capable vessel has been a subject of intrigue and admiration in the sailing community, particularly for its ingenious design elements that allow for effective sailing without conventional components like a centerboard.
