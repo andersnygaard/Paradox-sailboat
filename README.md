@@ -19,29 +19,29 @@ Yrvind noted an interesting aspect of Layden's sailing technique with the Parado
 
 ## Key features of the Paradox
 
-### Length Overall (LOA) and Length Waterline (LWL)
+### Length Overall and Length Waterline
 
-The Paradox measures 13 feet 10 inches (4.2 meters) in overall length (LOA) and has a waterline length (LWL) of 13 feet 5 inches (4.1 meters). This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters.
+The Paradox measures 13 feet 10 inches or 4.2 meters in overall length and has a waterline length of 13 feet 5 inches  or 4.1 meters. This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters.
 
 ### Beam and Draft
 
-The beam of the Paradox, at 4 feet and a half inch (1.23 meters), provides a balance between stability and the ability to navigate narrow channels. The boat's draft is surprisingly shallow at just 9 inches (0.23 meters), allowing it to sail in waters that are inaccessible to many other vessels. This shallow draft is central to the Paradox's design philosophy, emphasizing versatility and exploration.
+The beam of the Paradox, at 4 feet and a half inch or 1.23 meters, provides a balance between stability and the ability to navigate narrow channels. The boat's draft is surprisingly shallow at just 9 inches or 23 centimeters, allowing it to sail in waters that are inaccessible to many other vessels. This shallow draft is central to the Paradox's design philosophy, emphasizing versatility and exploration.
 
 ### Sail Area and Displacement
 
-The sail area of the Paradox is around 100 square feet (9.3 square meters), which, when paired with the boat’s displacement of approximately 1410 lbs (640 kg), delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
+The sail area of the Paradox is around 100 square feet or 9.3 square meters, which, when paired with the boat’s displacement of approximately 1410 lbs or 640 kilograms, delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
 
 ### Mast Height and Sail Area
 
-The height of the mast and the area of the sail are designed to complement the boat’s dimensions and displacement, offering a balanced sailing experience. The exact dimensions aren't specified in my knowledge, but they align with the overall design philosophy of simplicity and efficiency.
+The mast of the paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
 
 ### Accommodation and Fresh Water Ballast
 
-The Paradox, despite its small size, can accommodate up to two people for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
+The Paradox, despite its small size, can accommodate up to two people for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
 
 ### Control Lines and Sailing Mechanics
 
-A unique aspect of the Paradox is its control line system, which reflects Layden’s philosophy of simplicity and efficiency. The boat utilizes a 6mm Dacron line for the reefing/furling line, sheet line, tiller rope line, rudder lift line, and halyard line, with a slightly thinner 4mm line for the topping lift, tiller line, and rudder uphaul. The anchor line is thicker at 10mm. This system allows for easy and efficient management of the sails and steering, even from within the cabin, enhancing the boat’s suitability for solo sailing​​.
+A unique aspect of the Paradox is its control line system, which reflects Layden’s philosophy of simplicity and efficiency. The boat utilizes 6mm modern rope suuch as dacron or dyneema for the reefing/furling line. Sheet line, tiller rope line, rudder lift line, and halyard line uses a slightly thinner 4mm line for the topping lift, tiller line, and rudder uphaul. The anchor line is usually thicker at 10mm. This system allows for easy and efficient management of the sails and steering, even from within the cabin, enhancing the boat’s suitability for solo sailing​​.
 
 ### Chine Runners
 
