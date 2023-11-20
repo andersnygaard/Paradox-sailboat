@@ -69,7 +69,7 @@ The Paradox includes a yuloh, an oar-like tool used for sculling. This feature u
 
 Maximizing the limited space available in a micro-cruiser, the Paradox smartly incorporates shelves and storage spaces under the floors. This design choice ensures that essential gear and provisions can be stowed away neatly, maintaining the boat's center of gravity low and enhancing stability and safety.
 
-
+## Earlier designs
 
 The evolution of Matt Layden's designs leading up to the Paradox sailboat is a fascinating journey, marked by continuous innovation and practical experimentation. Two significant predecessors to the Paradox were "Swamp Thing" and "Little Cruiser," each embodying unique characteristics and lessons that influenced the design of Paradox.
 
