@@ -42,7 +42,13 @@ The Paradox, despite its small size, can accommodate up to two people for coasta
 
 ### Control Lines and Sailing Mechanics
 
-A unique aspect of the Paradox is its control line system, which reflects Layden’s philosophy of simplicity and efficiency. The boat utilizes 6mm modern rope such as dacron or dyneema for the reefing/furling line. Sheet line, tiller rope line, rudder lift line, and halyard line uses a slightly thinner 4mm line for the topping lift, tiller line, and rudder uphaul. The anchor line is usually thicker at 10mm. This system allows for easy and efficient management of the sails and steering, even from within the cabin, enhancing the boat’s suitability for solo sailing​​.
+For controlling the sail, Layden employed a minimalistic approach by using just three lines: a reefing line, a halyard, and a sheet. This streamlined setup reduces complexity and maintenance, crucial for a boat like the Paradox which is intended for extended solo voyages.
+
+A fourth line is dedicated to controlling the rudder. This line runs inside on both sides of the boat, providing a direct and responsive steering mechanism. This design choice not only simplifies the control layout but also contributes to the overall safety and manageability of the vessel.
+
+The control lines are thoughtfully routed to allow operation from within the cabin. This feature is particularly beneficial in harsh weather conditions, allowing the sailor to manage the boat while being protected from the elements. The internal routing of lines through the vent trunk or transom ensures that the deck remains uncluttered and safe for movement, a critical consideration in a small craft.
+
+By bringing all ropes back to the cockpit through the vent trunk or the transom, Layden ensured that the Paradox could be easily handled by a single sailor. This design philosophy extends to the overall handling of the boat, making it a reliable choice for solo adventurers seeking a compact yet capable cruising vessel.
 
 ### Chine Runners
 
