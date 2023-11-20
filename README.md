@@ -151,8 +151,6 @@ Lead ballast is a preferred choice in many sailing vessels due to its high densi
 
 In addition to the lead ballast, the Paradox also incorporates built-in water tanks as part of its ballasting system. These water tanks serve a dual purpose. Firstly, they act as a supplemental form of ballast. When filled, they add weight, further lowering the boat's center of gravity and enhancing stability. Secondly, they provide a fresh water supply, essential for extended cruising or long passages.
 
-The combination of lead and water ballast in the Paradox provides a robust and adaptable system. This system is a testament to the thoughtful design and engineering behind the Paradox, enabling it to handle a range of sea conditions with confidence. It underscores the vessel's suitability for coastal cruising, where conditions can vary significantly, and the ability to adjust ballast quickly and efficiently is a distinct advantage.
-
 The lead ballast needs to be securely fastened to prevent shifting, which could adversely affect the boat's stability. Similarly, the installation of the water tanks requires precision to ensure they are watertight and effectively integrated into the boat's structure.
 
 The ballast system of the Paradox is a critical component that contributes significantly to its overall performance and safety. Its design reflects a balance between stability, functionality, and space utilization, making the Paradox a capable and versatile small cruiser. This system is a key factor in the boat's ability to sail in shallow waters and handle various sea states.
