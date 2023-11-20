@@ -173,7 +173,7 @@ The placement of the vent trunk on bulkhead #2, adjacent to the forward "statero
 
 In summary, the Paradox's vent trunk is a remarkable example of multifunctional design in small boat construction. It effectively combines the roles of a mast foot and partner, a ventilation and drainage system, and a rigging conduit. Its robust construction, strategic placement, and integration with other boat systems like the water tank ventilation highlight the innovative and practical approach to sailboat design that the Paradox embodies.
 
-## Self-righting characteristics
+## Low water line - self-righting characteristics and aestethics
 
 The Paradox sailboat, designed by Matt Layden, epitomizes the intricate relationship between functional design and aesthetic appeal, particularly in the context of its low water line. This feature, while primarily serving practical sailing needs, also endows the Paradox with a distinctive look that resonates with both seasoned sailors and enthusiasts of maritime design.
 
