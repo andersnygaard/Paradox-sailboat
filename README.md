@@ -3,13 +3,17 @@ The Paradox sailboat, a brainchild of Matt Layden, stands as an emblem of ingenu
 
 This book is more or less written by [ChatGPT](https://chat.openai.com/g/g-BwQUKPlpj-detailed-paradox-sailboat-guide) loaded with the knowledge of the Yahoo mailing list.
 
-## History
-
 The story of the Paradox begins in 1993 when Matt Layden, an accomplished boat designer and sailor, sought to create a vessel capable of coastal cruising without the limitations imposed by deeper drafts. His creation, the Paradox, is a small, robust boat, measuring 13' 10" in length and just 48" in width, with a draft of a mere 9 inches. This compactness allows it to navigate in waters as shallow as knee-deep, a feature Layden valued highly for exploring the shallow waters of the US East Coast.
 
 Layden's philosophy was not just to build a boat but to innovate. He incorporated design elements that were both practical for sailing and simple enough for amateur builders. The Paradox, with its flat bottom and hard chine, was a departure from conventional hull shapes, focusing on stability and efficiency in shallow waters.
 
 Matt participated in the WaterTribe Everglades Challenge with his Paradox. The Everglades Challenge is an arduous and demanding sailing race that stretches approximately 300 miles from Fort Desoto to Key Largo, through the challenging and varied waters of the Florida Everglades​​.
+
+Sven Yrvind, a renowned sailor and boat designer, has shared insightful views about Matt Layden's Paradox, highlighting its unique design features and the impact it has had on small boat sailing. Yrvind, deeply influenced by the Paradox, spent a significant amount of time in Florida living and sailing with Matt Layden. During this period, he gained first-hand experience with the Paradox and its capabilities. Yrvind's observations and reflections on the Paradox are rooted in both admiration and a deep understanding of its design philosophy. 
+
+One of the most striking aspects of Paradox that Yrvind emphasizes is its use of chine runners. These aerodynamic "wings," located at the chines on both sides of the boat, play a crucial role in reducing lateral movement through the water. Yrvind regards the chine runner concept, created by Matt Layden in 1982, as the greatest innovation for small cruising boats in the last century​​. This is a significant accolade, considering Yrvind's extensive background and reputation in the world of small boat design and sailing.
+
+Yrvind noted an interesting aspect of Layden's sailing technique with the Paradox. He observed that Layden managed to self-steer the Paradox directly downwind by relocating his lug sail to resemble a square rigger. This adaptation demonstrates Layden's deep understanding of his boat's design and his ability to utilize its features creatively to enhance sailing performance. 
 
 ## Key features
 
