@@ -9,6 +9,62 @@ The story of the Paradox begins in 1993 when Matt Layden, an accomplished boat d
 
 Layden's philosophy was not just to build a boat but to innovate. He incorporated design elements that were both practical for sailing and simple enough for amateur builders. The Paradox, with its flat bottom and hard chine, was a departure from conventional hull shapes, focusing on stability and efficiency in shallow waters.
 
+## Key features
+
+The Paradox sailboat, designed by Matt Layden, is a remarkable micro-cruiser known for its unique features and measurements that cater to sailing enthusiasts who value efficiency, simplicity, and the ability to navigate shallow waters. This small but capable vessel has been a subject of intrigue and admiration in the sailing community, particularly for its ingenious design elements that allow for effective sailing without conventional components like a centerboard.
+
+### Length Overall (LOA) and Length Waterline (LWL)
+
+The Paradox measures 13 feet 10 inches (4.2 meters) in overall length (LOA) and has a waterline length (LWL) of 13 feet 5 inches (4.1 meters). This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters.
+
+### Beam and Draft
+
+The beam of the Paradox, at 4 feet and a half inch (1.23 meters), provides a balance between stability and the ability to navigate narrow channels. The boat's draft is surprisingly shallow at just 9 inches (0.23 meters), allowing it to sail in waters that are inaccessible to many other vessels. This shallow draft is central to the Paradox's design philosophy, emphasizing versatility and exploration.
+
+### Sail Area and Displacement
+
+The sail area of the Paradox is around 100 square feet (9.3 square meters), which, when paired with the boat’s displacement of approximately 1410 lbs (640 kg), delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
+
+### Mast Height and Sail Area
+
+The height of the mast and the area of the sail are designed to complement the boat’s dimensions and displacement, offering a balanced sailing experience. The exact dimensions aren't specified in my knowledge, but they align with the overall design philosophy of simplicity and efficiency.
+
+### Accommodation and Fresh Water Ballast
+
+The Paradox, despite its small size, can accommodate up to two people for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
+
+### Control Lines and Sailing Mechanics
+
+A unique aspect of the Paradox is its control line system, which reflects Layden’s philosophy of simplicity and efficiency. The boat utilizes a 6mm Dacron line for the reefing/furling line, sheet line, tiller rope line, rudder lift line, and halyard line, with a slightly thinner 4mm line for the topping lift, tiller line, and rudder uphaul. The anchor line is thicker at 10mm. This system allows for easy and efficient management of the sails and steering, even from within the cabin, enhancing the boat’s suitability for solo sailing​​.
+
+### Chine Runners
+
+Chine runners are one of the Paradox’s most innovative features. They are simple flanges on the bottom of the boat's flat hull, acting as substitutes for more traditional methods like leeboards or daggerboards, enabling the boat to sail windward effectively. Despite their simplicity and the shallow draft they allow, they are quite effective. They occupy the central third of the chine, which is underwater, and are robustly constructed, being 2 or 3 inches wide. These runners are integral in resisting the sideways force produced by the sail, and their effectiveness is enhanced by the boat's design, which requires a draft of about 1/5 of the beam. Interestingly, the effectiveness of chine runners is enhanced by heeling the boat, which helps in deeper submergence of the leeward chine and improves flow lines​​.
+
+### Vent Trunk
+
+The vent trunk in the Paradox is another element that showcases the thoughtful design of the boat. It is a component built into the structure of the boat, playing a crucial role in ventilation and maintaining the internal environment of the boat​​.
+
+### Large Rudder
+
+The large rudder of the Paradox is not just for steering; it also carries some of the sail load. This design feature is a throwback to traditional boats in the Mediterranean that used large rudders instead of water boards, relying on deep sharp bows for navigation. The large rudder, in combination with the chine runners and the lifting body-shaped hull, contributes significantly to the boat's leeway-resistance​​.
+
+### Pleasing Lines
+
+The Paradox is designed with pleasing lines, which not only contribute to its aesthetic appeal but also enhance its hydrodynamic efficiency. The synergy between form and function in the design is apparent, as each line and curve serves a purpose beyond mere visual appeal.
+
+### Storing the Mast Inside the Boat
+
+An innovative feature of the Paradox is the ability to store the mast inside the boat. This aspect is crucial for ease of transport and storage, reflecting the practicality of the design. A hole for the mast is incorporated into the design, allowing for secure storage when the boat is not in use​​.
+
+### Yuloh
+
+The Paradox includes a yuloh, an oar-like tool used for sculling. This feature underscores the boat's versatility, allowing for propulsion even without wind. The yuloh is a traditional tool, particularly useful in calm conditions or when maneuvering in tight spaces.
+
+### Shelves and Storage Space Under the Floors
+
+Maximizing the limited space available in a micro-cruiser, the Paradox smartly incorporates shelves and storage spaces under the floors. This design choice ensures that essential gear and provisions can be stowed away neatly, maintaining the boat's center of gravity low and enhancing stability and safety.
+
 ## Chine Runners: A Revolutionary Feature
 
 The Paradox sailboat's chine runners represent a striking innovation in nautical design, a testament to the ingenuity of their creator, Matt Layden. Their development marks a significant point in the evolution of small sailing craft, particularly those designed for shallow waters. The essence of chine runners lies in their deceptively simple yet highly effective design, enabling these boats to perform remarkably well under various conditions, especially in navigating windward.
