@@ -3,11 +3,13 @@ The Paradox sailboat, a brainchild of Matt Layden, stands as an emblem of ingenu
 
 This book is more or less written by [ChatGPT](https://chat.openai.com/g/g-BwQUKPlpj-detailed-paradox-sailboat-guide) loaded with the knowledge of the Yahoo mailing list.
 
-## History and Design Evolution
+## History
 
 The story of the Paradox begins in 1993 when Matt Layden, an accomplished boat designer and sailor, sought to create a vessel capable of coastal cruising without the limitations imposed by deeper drafts. His creation, the Paradox, is a small, robust boat, measuring 13' 10" in length and just 48" in width, with a draft of a mere 9 inches. This compactness allows it to navigate in waters as shallow as knee-deep, a feature Layden valued highly for exploring the shallow waters of the US East Coast.
 
 Layden's philosophy was not just to build a boat but to innovate. He incorporated design elements that were both practical for sailing and simple enough for amateur builders. The Paradox, with its flat bottom and hard chine, was a departure from conventional hull shapes, focusing on stability and efficiency in shallow waters.
+
+Matt participated in the WaterTribe Everglades Challenge with his Paradox. The Everglades Challenge is an arduous and demanding sailing race that stretches approximately 300 miles from Fort Desoto to Key Largo, through the challenging and varied waters of the Florida Everglades​​.
 
 ## Key features
 
