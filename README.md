@@ -1,6 +1,8 @@
 # Paradox sailboat
 The Paradox sailboat, a brainchild of Matt Layden, stands as an emblem of ingenuity in the world of micro-cruising. Born out of a desire to navigate shallow waters effortlessly, the Paradox, with its distinctive design and innovative features, revolutionized the concept of small coastal cruisers. This guide aims to unfold the rich tapestry of its history, design, and the community that has grown around it, making technical aspects accessible to all enthusiasts.
 
+This book is written by [ChatGPT](https://chat.openai.com/g/g-BwQUKPlpj-detailed-paradox-sailboat-guide)
+
 ## History and Design Evolution
 
 The story of the Paradox begins in 1993 when Matt Layden, an accomplished boat designer and sailor, sought to create a vessel capable of coastal cruising without the limitations imposed by deeper drafts. His creation, the Paradox, is a small, robust boat, measuring 13' 10" in length and just 48" in width, with a draft of a mere 9 inches. This compactness allows it to navigate in waters as shallow as knee-deep, a feature Layden valued highly for exploring the shallow waters of the US East Coast.
