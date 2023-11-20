@@ -1,7 +1,7 @@
 # Paradox sailboat
 The Paradox sailboat, a brainchild of Matt Layden, stands as an emblem of ingenuity in the world of micro-cruising. Born out of a desire to navigate shallow waters effortlessly, the Paradox, with its distinctive design and innovative features, revolutionized the concept of small coastal cruisers. This guide aims to unfold the rich tapestry of its history, design, and the community that has grown around it, making technical aspects accessible to all enthusiasts.
 
-This book is written by [ChatGPT](https://chat.openai.com/g/g-BwQUKPlpj-detailed-paradox-sailboat-guide).
+This book is more or less written by [ChatGPT](https://chat.openai.com/g/g-BwQUKPlpj-detailed-paradox-sailboat-guide) loaded with the knowledge of the Yahoo mailing list.
 
 ## History and Design Evolution
 
@@ -11,7 +11,7 @@ Layden's philosophy was not just to build a boat but to innovate. He incorporate
 
 ## Key features
 
-The Paradox sailboat, designed by Matt Layden, is a remarkable micro-cruiser known for its unique features and measurements that cater to sailing enthusiasts who value efficiency, simplicity, and the ability to navigate shallow waters. This small but capable vessel has been a subject of intrigue and admiration in the sailing community, particularly for its ingenious design elements that allow for effective sailing without conventional components like a centerboard.
+The Paradox sailboat is a remarkable micro-cruiser known for its unique features and measurements that cater to sailing enthusiasts who value efficiency, simplicity, and the ability to navigate shallow waters. This small but capable vessel has been a subject of intrigue and admiration in the sailing community, particularly for its ingenious design elements that allow for effective sailing without conventional components like a centerboard.
 
 ### Length Overall (LOA) and Length Waterline (LWL)
 
@@ -67,7 +67,7 @@ Maximizing the limited space available in a micro-cruiser, the Paradox smartly i
 
 ## Chine Runners: A Revolutionary Feature
 
-The Paradox sailboat's chine runners represent a striking innovation in nautical design, a testament to the ingenuity of their creator, Matt Layden. Their development marks a significant point in the evolution of small sailing craft, particularly those designed for shallow waters. The essence of chine runners lies in their deceptively simple yet highly effective design, enabling these boats to perform remarkably well under various conditions, especially in navigating windward.
+The Paradox sailboat's chine runners represent a striking innovation in nautical design. Their development marks a significant point in the evolution of small sailing craft, particularly those designed for shallow waters. The essence of chine runners lies in their deceptively simple yet highly effective design, enabling these boats to perform remarkably well under various conditions, especially in navigating windward.
 
 Chine runners are unique elements in boat design. They are small, horizontal winglets that extend from the chines, the juncture where the bottom of the boat meets the sides, for approximately one-third of the boat's length. These are not merely protrusions of the boat's base layer; they are robust structures, integral to the boat's design, which reside in the central underwater section of the chine. The brilliance of chine runners is encapsulated in their dual function: they eliminate the need for a centerboard or leeboard, while providing the boat with lateral resistance. This is particularly advantageous in shallow waters where traditional deep keels or boards are impractical.
 
