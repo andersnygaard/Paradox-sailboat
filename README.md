@@ -46,7 +46,7 @@ For controlling the sail, Layden employed a minimalistic approach by using just 
 
 A fourth line is dedicated to controlling the rudder. This line runs inside on both sides of the boat, providing a direct and responsive steering mechanism. This design choice not only simplifies the control layout but also contributes to the overall safety and manageability of the vessel.
 
-The control lines are thoughtfully routed to allow operation from within the cabin. This feature is particularly beneficial in harsh weather conditions, allowing the sailor to manage the boat while being protected from the elements. The internal routing of lines through the vent trunk or transom ensures that the deck remains uncluttered and safe for movement, a critical consideration in a small craft.
+The control lines are thoughtfully routed to allow operation from within the cabin. This feature is particularly beneficial in harsh weather conditions, allowing the sailor to manage the boat while being protected from the elements.
 
 By bringing all ropes back to the cockpit through the vent trunk or the transom, Layden ensured that the Paradox could be easily handled by a single sailor. This design philosophy extends to the overall handling of the boat, making it a reliable choice for solo adventurers seeking a compact yet capable cruising vessel.
 
