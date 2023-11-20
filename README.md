@@ -56,27 +56,27 @@ Chine runners are one of the Paradox’s most innovative features. They are simp
 
 ### Vent Trunk
 
-The vent trunk in the Paradox is another element that showcases the thoughtful design of the boat. It is a component built into the structure of the boat, playing a crucial role in ventilation and maintaining the internal environment of the boat​​.
+The vent trunk in the Paradox is another element that showcases the thoughtful design of the boat. It is a component built into the structure of the boat, playing a crucial role in ventilation and controlling the lines of the boat​​.
 
 ### Large Rudder
 
 The large rudder of the Paradox is not just for steering; it also carries some of the sail load. This design feature is a throwback to traditional boats in the Mediterranean that used large rudders instead of water boards, relying on deep sharp bows for navigation. The large rudder, in combination with the chine runners and the lifting body-shaped hull, contributes significantly to the boat's leeway-resistance​​.
 
-### Pleasing Lines
+### Yuloh
 
-The Paradox is designed with pleasing lines, which not only contribute to its aesthetic appeal but also enhance its hydrodynamic efficiency. The synergy between form and function in the design is apparent, as each line and curve serves a purpose beyond mere visual appeal.
+The Paradox includes a yuloh, an oar-like tool used for sculling. This feature underscores the boat's versatility, allowing for propulsion even without wind. The yuloh is a traditional tool, particularly useful in calm conditions or when maneuvering in tight spaces.
 
 ### Storing the Mast Inside the Boat
 
 An innovative feature of the Paradox is the ability to store the mast inside the boat. This aspect is crucial for ease of transport and storage, reflecting the practicality of the design. A hole for the mast is incorporated into the design, allowing for secure storage when the boat is not in use​​.
 
-### Yuloh
-
-The Paradox includes a yuloh, an oar-like tool used for sculling. This feature underscores the boat's versatility, allowing for propulsion even without wind. The yuloh is a traditional tool, particularly useful in calm conditions or when maneuvering in tight spaces.
-
 ### Shelves and Storage Space Under the Floors
 
 Maximizing the limited space available in a micro-cruiser, the Paradox smartly incorporates shelves and storage spaces under the floors. This design choice ensures that essential gear and provisions can be stowed away neatly, maintaining the boat's center of gravity low and enhancing stability and safety.
+
+### Aesthetic appeal
+
+The Paradox is designed with pleasing lines, which not only contribute to its aesthetic appeal but also enhance its hydrodynamic efficiency. The synergy between form and function in the design is apparent, as each line and curve serves a purpose beyond mere visual appeal.
 
 ## The history of Matt Layden designs
 
