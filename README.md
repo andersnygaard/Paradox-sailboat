@@ -36,6 +36,18 @@ The sail area of the Paradox is around 100 square feet or 9.3 square meters, whi
 
 The mast of the paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
 
+### Chine Runners
+
+Chine runners are one of the Paradox’s most innovative features. They are simple flanges on the bottom of the boat's flat hull, acting as substitutes for more traditional methods like leeboards or daggerboards, enabling the boat to sail windward effectively. Despite their simplicity and the shallow draft they allow, they are quite effective. They occupy the central third of the chine, which is underwater, and are robustly constructed, being 2 or 3 inches wide. These runners are integral in resisting the sideways force produced by the sail, and their effectiveness is enhanced by the boat's design, which requires a draft of about 1/5 of the beam. Interestingly, the effectiveness of chine runners is enhanced by heeling the boat, which helps in deeper submergence of the leeward chine and improves flow lines​​.
+
+### Vent Trunk
+
+The vent trunk in the Paradox is another element that showcases the thoughtful design of the boat. It is a component built into the structure of the boat, playing a crucial role in ventilation and controlling the lines of the boat​​.
+
+### Large Rudder
+
+The large rudder of the Paradox is not just for steering; it also carries some of the sail load. This design feature is a throwback to traditional boats in the Mediterranean that used large rudders instead of water boards, relying on deep sharp bows for navigation. The large rudder, in combination with the chine runners and the lifting body-shaped hull, contributes significantly to the boat's leeway-resistance​​.
+
 ### Accommodation and Fresh Water Ballast
 
 The Paradox, despite its small size, can accommodate up to two people for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
@@ -49,18 +61,6 @@ A fourth line is dedicated to controlling the rudder. This line runs inside on b
 The control lines are thoughtfully routed to allow operation from within the cabin. This feature is particularly beneficial in harsh weather conditions, allowing the sailor to manage the boat while being protected from the elements.
 
 By bringing all ropes back to the cockpit through the vent trunk or the transom, Layden ensured that the Paradox could be easily handled by a single sailor. This design philosophy extends to the overall handling of the boat, making it a reliable choice for solo adventurers seeking a compact yet capable cruising vessel.
-
-### Chine Runners
-
-Chine runners are one of the Paradox’s most innovative features. They are simple flanges on the bottom of the boat's flat hull, acting as substitutes for more traditional methods like leeboards or daggerboards, enabling the boat to sail windward effectively. Despite their simplicity and the shallow draft they allow, they are quite effective. They occupy the central third of the chine, which is underwater, and are robustly constructed, being 2 or 3 inches wide. These runners are integral in resisting the sideways force produced by the sail, and their effectiveness is enhanced by the boat's design, which requires a draft of about 1/5 of the beam. Interestingly, the effectiveness of chine runners is enhanced by heeling the boat, which helps in deeper submergence of the leeward chine and improves flow lines​​.
-
-### Vent Trunk
-
-The vent trunk in the Paradox is another element that showcases the thoughtful design of the boat. It is a component built into the structure of the boat, playing a crucial role in ventilation and controlling the lines of the boat​​.
-
-### Large Rudder
-
-The large rudder of the Paradox is not just for steering; it also carries some of the sail load. This design feature is a throwback to traditional boats in the Mediterranean that used large rudders instead of water boards, relying on deep sharp bows for navigation. The large rudder, in combination with the chine runners and the lifting body-shaped hull, contributes significantly to the boat's leeway-resistance​​.
 
 ### Yuloh
 
