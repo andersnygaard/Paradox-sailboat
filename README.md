@@ -87,6 +87,7 @@ The progression of Matt Layden's boat designs culminating in the Paradox sailboa
 Terrapin, one of Layden's earliest designs, introduced foundational concepts and revealed critical areas for improvement, particularly in terms of stability and leeway control. Following Terrapin, Swamp Thing marked a significant shift with its use of chine runners instead of traditional leeboards, enhancing upwind performance in shallow waters. Lastly, Little Cruiser, with its complex design including a centerboard and a focus on interior space and safety, further evolved Layden's approach. These boats collectively laid the groundwork for the advanced design and functionality embodied in the Paradox sailboat.
 
 ### Terrapin
+
 Terrapin, a microcruiser built around 1985, is one of the earliest known boats designed by Matt Layden. This foundational design in Layden's career measured 13 feet 9 inches or 4.2 meters in length, had a beam of 5 feet 3 inches or 1.6 meters, a draught of 7.9 inches or 0.2 meters, and displaced 1550 lbs or 700 kg. It featured traditional leeboards, a cabin, and a fully battened mainsail, which contributed to its speed and adequate accommodations.
 
 During his travels with Terrapin, including a journey to Florida and back to Connecticut, Layden observed several design limitations. The leeboards were found to be cumbersome and noisy, and they tended to collect debris. These experiences led Layden to explore alternative solutions for leeway reduction. Additionally, the 6-foot (1.83 meters) beam of the boat limited its self-righting capabilities, a shortcoming exposed during a severe knockdown off the coast of Maine. Fortunately, the boat's large diameter hollow mast prevented a full capsize, allowing Terrapin to be righted.
@@ -96,11 +97,13 @@ These insights gained from sailing Terrapin were instrumental in Layden's evolvi
 The Terrapin served as a foundational project for Layden, influencing his future creations. Its design elements, both successful and challenging, played a significant role in the evolution of his next designs, including the transition to chine runners as seen in his subsequent microcruiser, Swamp Thing​​​​.
 
 ### Swamp Thing
+
 Swamp Thing, constructed in 1985, was a pivotal design in Layden's journey. It was his first microcruiser to utilize chine runners, a significant departure from the traditional leeboards used in his earlier design, Terrapin. These chine runners or external chine logs, which replaced the cumbersome leeboards, were simpler and more efficient, significantly improving the boat's upwind performance in shallow waters.
 
 Swamp Thing was relatively small, with a length of 13'2" and a beam of 3'8". Despite its size, it proved capable of long voyages, as Layden sailed it down the East Coast of the United States and out to the Bahamas. This journey was a testament to the boat's seaworthiness and Layden's skill as a sailor. The boat's design featured a simple lug sail that could be manually rolled or furled around the boom, adding to its practicality.
 
 ### Little Cruiser
+
 Little Cruiser, built in 1988, marked another evolution in Layden's design philosophy. While similar in length to Swamp Thing, it represented a more complex design. It featured a centerboard and a battened lug sail with slab reefing, all lines leading down through the centerboard trunk into the cabin. The mast, stepped on deck, could be easily folded down with an unusual "A" frame tabernacle.
 
 The boat's design focused on creating ample interior space and ensuring the comfort and safety of its occupant in all weather conditions. Little Cruiser was well-insulated with foam, adding dryness and positive buoyancy, and was equipped with four large built-in water ballast tanks to facilitate long-range cruising.
@@ -108,13 +111,14 @@ The boat's design focused on creating ample interior space and ensuring the comf
 Dave and Mindy Bolduc, who acquired Little Cruiser in 1992, undertook numerous journeys in her, including at least five more trips to the Bahamas. They emphasized Little Cruiser's robust construction, including a 1-inch thick plywood bottom and substantial framing, which proved invaluable during their extensive cruising, including a trip where they encountered a reef in the Bahamas. The boat's design allowed for easy beaching for repairs, highlighting its practicality for long-distance cruising.
 
 ### Impact on Paradox Design
+
 Both Swamp Thing and Little Cruiser played crucial roles in developing the Paradox. Swamp Thing's introduction of chine runners and the simplification of the sailing rig were concepts Layden carried forward. Little Cruiser's focus on interior space, comfort, and the innovative centerboard and rigging systems also influenced Paradox's design. However, Layden, in his pursuit of optimizing performance and simplicity, chose to return to the chine runners for Paradox, finding the centerboard's benefits insufficient to warrant its complexity.
 
 ### Enigma
+
 Enigma, built in 2005, was approximately 12 feet or 3.6 meters in length. This boat was notably lighter than its predecessors, employing a stitch and glue construction method and being covered with fiberglass. A notable departure from the Paradox, Enigma lacked longitudinal stringers and featured a V-shaped forward portion of the hull, as opposed to the flat bottom of the Paradox. Above the cabin, Enigma had a canvas dodger rather than the plywood cabin top seen in the Paradox. Matt Layden showcased the capabilities of Enigma by participating in the Florida Ultimate Challenge, where he achieved a commendable 3rd place overall​​.
 
 Building on the foundation laid by Enigma, Matt designed the Enigma 460 in 2007. This version was three feet longer than the original Enigma and incorporated a plywood cabin top, aligning more closely with the design of the Paradox. George Van Sickle took on the task of building the prototype of the Enigma 460 and was involved in conducting sea trials with this version as of summer 2010. The Enigma 460, described as a lighter, stitch and glue construction coastal cruiser, was approximately the same size as the Paradox but offered a faster and easier build process. It embodied some of the characteristics of the Paradox, such as the chine runners, flat bottom with rocker, and box sides, but distinguished itself as a light displacement vessel compared to the heavy displacement Paradox. George Van Sickle's work on the Enigma 460, including the addition of a 'hard top' cabin, further contributed to the evolution of Layden's boat designs​​​​​​.
-
 
 ## Chine Runners: A Revolutionary Feature
 
@@ -165,7 +169,6 @@ The same drum is used for reefing the sail, making the process of reducing the s
 Using the lug sail on the Paradox provides a distinctive sailing experience that merges traditional sailing methods with modern innovations. The balanced design of the lug sail, along with its efficient furling and reefing system, showcases a harmonious blend of historical sailing techniques with current needs. This design is a testament to Matt Layden's ingenuity and craftsmanship, demonstrating how traditional sailing concepts can be adeptly modified for contemporary use.
 
 The Paradox is distinguished not only by its efficient design but also by how it renders sailing accessible and manageable, even for those with limited experience. The lug sail setup, with its focus on simplicity and functionality, is ideal for sailing enthusiasts who value the essence of sailing without the complexities often associated with more complex rigs.
-
 
 ## Large Rudder
 
