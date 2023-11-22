@@ -82,7 +82,18 @@ The Paradox is designed with pleasing lines, which not only contribute to its ae
 
 ## The history of Matt Layden designs
 
-The evolution of Matt Layden's designs leading up to the Paradox sailboat is a fascinating journey, marked by continuous innovation and practical experimentation. Two significant predecessors to the Paradox were "Swamp Thing" and "Little Cruiser," each embodying unique characteristics and lessons that influenced the design of Paradox.
+The progression of Matt Layden's boat designs culminating in the Paradox sailboat represents a captivating narrative of relentless innovation and hands-on experimentation. Before the Paradox, three key predecessors — "Terrapin," "Swamp Thing," and "Little Cruiser" — played crucial roles in shaping Layden's design philosophy. Each of these vessels bore distinct features and imparted valuable insights, directly influencing the development of the Paradox.
+
+Terrapin, one of Layden's earliest designs, introduced foundational concepts and revealed critical areas for improvement, particularly in terms of stability and leeway control. Following Terrapin, Swamp Thing marked a significant shift with its use of chine runners instead of traditional leeboards, enhancing upwind performance in shallow waters. Lastly, Little Cruiser, with its complex design including a centerboard and a focus on interior space and safety, further evolved Layden's approach. These boats collectively laid the groundwork for the advanced design and functionality embodied in the Paradox sailboat.
+
+### Terrapin
+Terrapin, a microcruiser built around 1985, is one of the earliest known boats designed by Matt Layden. This foundational design in Layden's career measured 13 feet 9 inches or 4.2 meters in length, had a beam of 5 feet 3 inches or 1.6 meters, a draught of 7.9 inches or 0.2 meters, and displaced 1550 lbs or 700 kg. It featured traditional leeboards, a cabin, and a fully battened mainsail, which contributed to its speed and adequate accommodations.
+
+During his travels with Terrapin, including a journey to Florida and back to Connecticut, Layden observed several design limitations. The leeboards were found to be cumbersome and noisy, and they tended to collect debris. These experiences led Layden to explore alternative solutions for leeway reduction. Additionally, the 6-foot (1.83 meters) beam of the boat limited its self-righting capabilities, a shortcoming exposed during a severe knockdown off the coast of Maine. Fortunately, the boat's large diameter hollow mast prevented a full capsize, allowing Terrapin to be righted.
+
+These insights gained from sailing Terrapin were instrumental in Layden's evolving design philosophy, particularly influencing his decision to move away from leeboards in favor of chine runners in his later designs, such as Swamp Thing​​​​.
+
+The Terrapin served as a foundational project for Layden, influencing his future creations. Its design elements, both successful and challenging, played a significant role in the evolution of his next designs, including the transition to chine runners as seen in his subsequent microcruiser, Swamp Thing​​​​.
 
 ### Swamp Thing
 Swamp Thing, constructed in 1985, was a pivotal design in Layden's journey. It was his first microcruiser to utilize chine runners, a significant departure from the traditional leeboards used in his earlier design, Terrapin. These chine runners or external chine logs, which replaced the cumbersome leeboards, were simpler and more efficient, significantly improving the boat's upwind performance in shallow waters.
