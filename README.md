@@ -88,7 +88,7 @@ Terrapin, one of Layden's earliest designs, introduced foundational concepts and
 
 ### Terrapin
 
-Terrapin, a microcruiser built around 1985, is one of the earlier boats designed by Matt Layden. This foundational design in Layden's career measured 13 feet 9 inches or 4.2 meters in length, had a beam of 5 feet 3 inches or 1.6 meters, a draft of 7.9 inches or 0.2 meters, and displaced 1550 lbs or 700 kg. It featured traditional leeboards, a cabin, and a fully battened mainsail, which contributed to its speed and adequate accommodations.
+Terrapin, a microcruiser built around 1985, is Matt Layden's first home-made micro cruiser. This foundational design in Layden's career measured 13 feet 9 inches or 4.2 meters in length, had a beam of 5 feet 3 inches or 1.6 meters, a draft of 7.9 inches or 0.2 meters, and displaced 1550 lbs or 700 kg. It featured traditional leeboards, a cabin, and a fully battened mainsail, which contributed to its speed and adequate accommodations.
 
 During his travels with Terrapin, including a journey to Florida and back to Connecticut, Layden observed several design limitations. The leeboards were found to be cumbersome and noisy, and they tended to collect debris. These experiences led Layden to explore alternative solutions for leeway reduction. Additionally, the 6 foot or 1.8 meters beam of the boat limited its self-righting capabilities, a shortcoming exposed during a severe knockdown off the coast of Maine. Fortunately, the boat's large diameter hollow mast prevented a full capsize, allowing Terrapin to be righted.
 
