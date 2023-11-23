@@ -122,7 +122,7 @@ Building on the foundation laid by Enigma, Matt designed the Enigma 460 in 2007.
 
 However, the plans for both the original Enigma and the Enigma 460 never found their way to the public, as they were still in the prototype stage and undergoing tweaks by George Van Sickle. Despite this, several Enigma 3.6 boats have been built using pictures and forum posts available on the internet. Notable among these are Dave Fahy's "Goliath," completed in 2021, and André-François Bourbeau's boat "Question," launched in the same year. Both of these builds are well-documented on YouTube and Facebook, providing valuable insights into their construction process.
 
-## Chine Runners: A Revolutionary Feature
+## Chine Runners
 
 The Paradox sailboat's chine runners represent a striking innovation in nautical design. The essence of chine runners lies in their deceptively simple yet highly effective design, enabling these boats to perform remarkably well under various conditions, especially in navigating windward. 
 
@@ -184,25 +184,19 @@ The Paradox's mast is unstayed, meaning it doesn't have the usual wires or riggi
 
 The lug sail on the Paradox blends traditional techniques with modern innovations. The sail's balanced design, coupled with its efficient furling and reefing system, demonstrates Matt Layden's skill in adapting historical concepts for contemporary sailing
 
-## Large Rudder
+## Rudder
 
-The Paradox sailboat's rudder system, an exemplary feature of its design, showcases innovation and practicality, embodying the essence of efficient small boat engineering. The kick-up style rudder, a core component of the Paradox, significantly enhances the vessel's handling and performance. This rudder has two parts, a rudder stock and a rudder blade, connected centrally by a bolt.
+The Paradox sailboat's rudder is distinctively large compared to those on similarly sized vessels, serving functions beyond mere steering. Its considerable size is integral in distributing the sail load, a key factor in the boat's stability and performance. The rudder's one-inch thickness underscores its critical role in the Paradox's overall design, reflecting its dual purpose in steering accuracy and sail load management.
 
-A unique characteristic of the rudder stock is its dual-purpose design, incorporating a swim step. This integration is not merely an aesthetic choice but a functional one, improving the utility of the boat while simultaneously considering the sailor's experience. The swim step, more than an add-on, is a thoughtful design element that enriches the boat's functionality.
+This rudder's functionality is further amplified by its synergy with the Paradox's other design features, such as the chine runners and the hull's lifting body shape. These elements work together to enhance lateral stability and maintain course, especially in crosswinds or during intricate maneuvers.
 
-One of the most distinctive features of the rudder is its adjustability from the cockpit, a testament to the Paradox's design focus on adaptability and ease of use. This feature allows sailors to raise or lower the rudder effortlessly, accommodating various sailing conditions and water depths. This adaptability is particularly advantageous in shallow waters or during docking, ensuring enhanced maneuverability and safety.
+Comprising two primary parts—the rudder stock and a kick-up blade—the rudder's structure is both innovative and practical. The rudder stock, attaching the rudder to the boat, incorporates a swim step for safe and easy re-entry from the water, enhancing both safety and functionality.
 
-The lower section of the rudder is innovatively designed with embedded lead. This addition is not merely for weight but serves a functional purpose, automatically lowering the rudder blade when the retaining line is released. This design choice simplifies operation, enhancing the boat's responsiveness and ease of handling.
+The kick-up blade is invaluable in shallow areas, designed to pivot upwards when hitting submerged objects, thus preventing potential damage. Its foil shape is engineered for efficient water movement, ensuring better control and minimized drag.
 
-The rudder blade, adhering to the NACA 0009 profile, is a deliberate choice to optimize hydrodynamic efficiency. This profile is renowned for balancing steering responsiveness with minimal drag, contributing significantly to the Paradox's sailing efficiency. The rudder's design, therefore, is a careful blend of functionality and performance.
+A notable feature of the Paradox is the cockpit-controlled rudder adjustment, allowing sailors to modify the rudder's depth according to different sailing conditions and water depths. This adaptability is especially beneficial in areas with variable water levels or diverse marine landscapes.
 
-Given the Paradox's unique design, which forgoes a conventional centerboard or keel, the rudder's size and shape become even more critical. The rudder provides essential directional stability and lateral resistance. Its substantial surface area ensures a solid grip in the water, translating the helmsman’s inputs into precise and immediate directional changes, a crucial feature in challenging sailing environments.
-
-The rudder's role extends beyond steering; it also supports a portion of the sail load. This distribution is vital given the aft-positioned sail area of the Paradox. In concert with the chine runners, the rudder provides the necessary lateral resistance to counteract the sideways force generated by the sails, thus maintaining a balanced and responsive handling experience.
-
-Constructed from marine-grade plywood, reinforced with fiberglass or epoxy coatings, the rudder is built to endure. This choice of materials guarantees strength, durability, and water resistance. The foil shape of the rudder is fine-tuned for maximum efficiency, enhancing both steering precision and the capacity to support the sail load effectively.
-
-An innovative aspect of the Paradox's design is the tiller's extension through the boat's transom. This direct connection ensures responsive steering control. The tiller's attachment to the rudder stock, passing through a transom opening equipped with a vent baffle system, ingeniously channels any infiltrated water back to the sea. This design not only maintains the boat’s structural integrity but also ensures efficient rudder control.
+The tiller of the Paradox, extending through the transom, provides direct and responsive steering. Connected to the rudder stock, it passes through a transom aperture fitted with a vent baffle system. This ingenious system redirects any infiltrating water back to the sea, preserving the boat’s integrity and ensuring effective rudder operation in various sailing conditions.
 
 ## Ballast
 
