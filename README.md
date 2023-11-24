@@ -66,7 +66,7 @@ By bringing all ropes back to the cockpit through the vent trunk or the transom,
 
 ### Cabin top
 
-The Paradox sailboat, despite its compact dimensions, indeed features a distinctively designed cabin top. This cabin top is designed to be fully enclosed, providing protection from rain, sun, and adverse weather conditions, ensuring the helmsman stays dry. A key feature of the cabin is the hatch, which can be opened and closed. This hatch is strategically positioned to allow the pilot to sit on a bench with his head above the hatch when it's open, facilitating visibility and air circulation. When the hatch is closed, the pilot shifts to a lower position inside the cabin. This design offers a practical solution to manage the space within the small cabin while maintaining functionality and comfort for the sailor.
+The Paradox sailboat, despite its compact dimensions, indeed features a distinctively designed cabin top. This cabin top is designed to be fully enclosed, providing protection from rain, sun, and adverse weather conditions, ensuring the helmsman stays dry. A key feature of the cabin is the hatch, which can be opened and closed. This hatch is strategically positioned to allow the pilot to sit on a seat with his head above the hatch when it's open, facilitating visibility and air circulation. When the hatch is closed, the pilot shifts to a lower position inside the cabin. This design offers a practical solution to manage the space within the small cabin while maintaining functionality and comfort for the sailor.
 
 ### Yuloh
 
