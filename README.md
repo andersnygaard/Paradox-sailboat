@@ -122,6 +122,12 @@ Building on the foundation laid by Enigma, Matt designed the Enigma 460 in 2007.
 
 However, the plans for both the original Enigma and the Enigma 460 never found their way to the public, as they were still in the prototype stage and undergoing tweaks by George Van Sickle. Despite this, several Enigma 3.6 boats have been built using pictures and forum posts available on the internet. Notable among these are Dave Fahy's "Goliath," completed in 2021, and André-François Bourbeau's boat "Question," launched in the same year. Both of these builds are well-documented on YouTube and Facebook, providing valuable insights into their construction process.
 
+### Elusion
+
+Elusion is Matt Layden's latest design, a progression from his Enigma model, but notably lighter. This micro-cruiser has a length of 9 feet or 2.7 meters and a beam of 38 inches ort 96 centimeters. Its sail area is substantial for its size, approximately 100 square feet or 9.3 square meters. One of the defining features of Elusion is its weight, at around 120 pounds (roughly 54 kilograms), making it car-toppable and convenient for transportation. Instead of the usual sculling oar, the Elusion uses a stand-up paddle for auxiliary propulsion. With a draft of approximately 6 inches or just ovver 15 centimeters, and a displacement of around 360 pounds or 160 kilograms, the Elusion is designed for ease of handling and functionality in a small sailing vessel.
+
+In 2010, Layden successfully competed in the 1200-mile Watertribe Ultimate Challenge race in Florida, securing first place in his class with the Elusion.
+
 ## Chine Runners
 
 The Paradox sailboat's chine runners represent a striking innovation in nautical design. The essence of chine runners lies in their deceptively simple yet highly effective design, enabling these boats to perform remarkably well under various conditions, especially in navigating windward. 
