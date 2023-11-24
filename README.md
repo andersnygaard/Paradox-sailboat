@@ -1,6 +1,6 @@
 # A guide to the Paradox sailboat
 
-The Paradox sailboat, a brainchild of Matt Layden, stands as an emblem of ingenuity in the world of micro-cruising. This guide aims to unfold the rich tapestry of its history, design, and the community that has grown around it, making technical aspects accessible to all enthusiasts.
+The Paradox sailboat, created by Matt Layden, is a notable example of small-scale cruising innovation. This guide explores its history, design, and the community it has fostered, aiming to make its technical details understandable to all enthusiasts.
 
 This book is more or less written by ChatGPT loaded with the knowledge of the Yahoo mailing list.
 
