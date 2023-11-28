@@ -4,7 +4,7 @@ Audiobook version here [https://soundcloud.com/anders-nygaard-642799450/a-guide-
 
 Paradox is one of Matt Layden's most successful micro-cruiser designs. Built in 1993, this boat was initially sailed from Connecticut down the Intracoastal Waterway and as far out as the Ragged Islands in the Bahamas. After cruising near his home in Florida for 10 years, she was then entered in the grueling 300-mile Everglades Challenge. There, she not only placed first in her class but also garnered overall honors. Paradox is 13 feet 10 inches  or 4.2 meters in length and a mere 48 inches or 1.2 meters wide. This guide explores its history, design, technical details, and the community that has grown around it.
 
-This book is written by ChatGPT loaded with the knowledge of the Yahoo mailing list.
+*This book is written by ChatGPT loaded with the knowledge of the Yahoo mailing list.*
 
 Despite his preference for a low profile and limited online presence, Layden's work, particularly the Paradox, has quietly resonated within this sailing community. The Paradox, a compact and sturdy vessel measuring 13 feet 10 inches  or 4.2 meters in length and 48 inches or 1.2 meters in width, with a minimal draft of 9 inches or 23 centimeters, embodies Layden's innovative approach to boat design. The Paradox shares several key features with the traditional sharpie design. Sharpies are characterized by their flat-bottomed hulls, sharp bow, and relatively simple construction, typically featuring a narrow beam and shallow draft. The Paradox embodies many of these traits, making it well-suited for shallow coastal and inshore waters a feature greatly appreciated for exploring the shallow estuaries and bays of the US East Coast.
 
