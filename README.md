@@ -54,7 +54,7 @@ The vent trunk in the Paradox is a practical feature that serves two main purpos
 
 ### Accommodation and Fresh Water Ballast
 
-The Paradox, despite its small size, can accommodate up to two people for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
+The Paradox, despite its small size, can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
 
 ### Control Lines and Sailing Mechanics
 
