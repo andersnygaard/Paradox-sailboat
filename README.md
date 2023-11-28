@@ -1,9 +1,10 @@
+Audiobook version here [https://soundcloud.com/anders-nygaard-642799450/a-guide-to-the-paradox-sailboat](https://soundcloud.com/anders-nygaard-642799450/a-guide-to-the-paradox-sailboat)
+
 # A guide to the Paradox sailboat
 
 The Paradox sailboat, created by Matt Layden, is a notable example of small-scale cruising innovation. This guide explores its history, design, technical details, and the community that has grown around it.
 
 This book is written by ChatGPT loaded with the knowledge of the Yahoo mailing list.
-Listen to the audiobook here [https://soundcloud.com/anders-nygaard-642799450/a-guide-to-the-paradox-sailboat](https://soundcloud.com/anders-nygaard-642799450/a-guide-to-the-paradox-sailboat)
 
 The Paradox sailboat, conceived in 1993 by the understated and skilled sailor Matt Layden, is a testament to Layden's subtle but profound impact on the micro cruising world. Despite his preference for a low profile and limited online presence, Layden's work, particularly the Paradox, has quietly resonated within this sailing community. The Paradox, a compact and sturdy vessel measuring 13 feet 10 inches  or 4.2 meters in length and 48 inches or 1.2 meters in width, with a minimal draft of 9 inches or 23 centimeters, embodies Layden's innovative approach to boat design. The Paradox shares several key features with the traditional sharpie design. Sharpies are characterized by their flat-bottomed hulls, sharp bow, and relatively simple construction, typically featuring a narrow beam and shallow draft. The Paradox embodies many of these traits, making it well-suited for shallow coastal and inshore waters a feature greatly appreciated for exploring the shallow estuaries and bays of the US East Coast.
 
