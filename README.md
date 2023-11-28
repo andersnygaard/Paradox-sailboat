@@ -58,7 +58,9 @@ The Paradox, despite its small size, can accommodate up to two people for coasta
 
 For controlling the sail, Layden employed a minimalistic approach by using just three lines: a reefing line, a halyard, and a sheet. This streamlined setup reduces complexity and maintenance, crucial for a boat like the Paradox which is intended for extended solo voyages.
 
-A fourth line is dedicated to controlling the rudder. This line runs inside on both sides of the boat, providing a direct and responsive steering mechanism. This design choice not only simplifies the control layout but also contributes to the overall safety and manageability of the vessel.
+A fourth line is dedicated to controlling the rudder. This line runs inside on both sides of the boat, providing a direct and responsive steering mechanism. This design choice not only simplifies the control layout but also contributes to the overall safety and manageability of the vessel. Additionally, a fifth line controls the rudder up and down and locks to a cleat on the tiller. 
+
+Most builders add a topping lift that also comes back through the vent box. The topping lift facilitates raising and lowering the sail. The boom can be raised at both ends by pulling on this single line. When the sail is furled, the topping lift is slackened and used to guide the sail into its storage position. Before making sail, a pull on the topping lift raises it just above the coach roof, ready for hoisting.
 
 The control lines are thoughtfully routed to allow operation from within the cabin. This feature is particularly beneficial in harsh weather conditions, allowing the sailor to manage the boat while being protected from the elements.
 
