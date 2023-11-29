@@ -122,7 +122,9 @@ Swamp Thing was relatively small, with a length of 13 feet and 2 inches or 4 met
 
 Little Cruiser, built in 1988, marked another evolution in Layden's design philosophy. While similar in length to Swamp Thing, it represented a more complex design. It featured a centerboard and a battened lug sail with slab reefing, all lines leading down through the centerboard trunk into the cabin. The mast, stepped on deck, could be easily folded down with an unusual "A" frame tabernacle.
 
-The boat's design focused on creating ample interior space and ensuring the comfort and safety of its occupant in all weather conditions. Little Cruiser was well-insulated with foam, adding dryness and positive buoyancy, and was equipped with four large built-in water ballast tanks to facilitate long-range cruising. Matt Layden even spent a winter aboard Little Cruiser in Cape Cod frozen into the ice. 
+The boat's design focused on creating ample interior space and ensuring the comfort and safety of its occupant in all weather conditions. Little Cruiser was well-insulated with foam, adding dryness and positive buoyancy, and was equipped with four large built-in water ballast tanks to facilitate long-range cruising.
+
+Matt Layden spent one winter on Little Cruiser in Cape Cod frozen into the ice. Despite the freezing conditions, the boat's foam insulation kept the interior dry, allowing him to stay warm with just his stove. Little Cruiser's spacious cabin and water ballast tanks made it suitable for long trips. Matt lived on it for four years, traveling from the Bay of Funday to the Bahamas. His experience showed the boat's capability in various weather conditions.
 
 Dave and Mindy Bolduc, who acquired Little Cruiser in 1992, undertook numerous journeys in her, including at least five more trips to the Bahamas. They emphasized Little Cruiser's robust construction, including a 1-inch thick plywood bottom and substantial framing, which proved invaluable during their extensive cruising, including a trip where they encountered a reef in the Bahamas. The boat's design allowed for easy beaching for repairs, highlighting its practicality for long-distance cruising.
 
