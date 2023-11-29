@@ -178,30 +178,6 @@ Layden pointed out that while the chine runners are helpful, the lifting body hu
 
 In practical terms, the introduction of chine runners has opened up new possibilities for small boat design and sailing. Boats like the Paradox, equipped with these runners, have demonstrated remarkable capabilities in environments that were previously challenging or inaccessible to traditional designs. The ability to sail effectively in shallow waters, without the need for complex or cumbersome underwater structures, has been a game-changer in the world of small boat sailing.
 
-## Rig
-
-The Paradox sailboat is equipped with a lug sail, a practical and easy-to-handle design. 
-
-The balanced lug rig is a traditional sail configuration that has been used for centuries, particularly favored for its simplicity and effectiveness in smaller boats like the Paradox sailboat. This type of rig features a four-cornered sail set on a yard and a boom, with the luff (the forward edge of the sail) usually attached to a mast. A distinctive characteristic of the balanced lug sail is that the yard (the top spar) extends both in front of and behind the mast, giving the rig its "balanced" nature.
-
-This balance is crucial to the sail's performance. It results from the positioning of the sail's center of effort relative to the mast, with the part of the sail forward of the mast helping to counterbalance the force on the rest of the sail. This design reduces the tendency for the boat to head up into the wind (known as weather helm) and makes the rig more efficient, especially when sailing upwind.
-
-One of the main reasons balanced lug sails are favored is their ease of handling. They are relatively simple to rig and can be managed by a single sailor, making them ideal for small boats and solo sailing. The sail can be easily reefed to adapt to different wind conditions, and the rig typically requires less complex hardware compared to modern sail setups.
-
-In terms of versatility, the balanced lug rig performs well across a variety of wind conditions. It is particularly effective in light to moderate winds and offers good downwind performance. The rig's ability to sail closer to the wind than other traditional rigs like the gaff rig adds to its versatility.
-
-Historically, balanced lug sails were common on working boats due to their low cost and ease of construction. Today, they continue to be used on both traditional and classic boats, as well as on modern small craft where simplicity and ease of handling are key factors. Their classic, traditional aesthetic also adds to the appeal, with the distinct silhouette of the sail and its historical significance contributing to the overall charm of boats equipped with this rig.
-
-In modern adaptations, like in the Paradox sailboat, the balanced lug rig often includes contemporary materials and design improvements. These enhancements, such as efficient reefing systems and durable sail fabrics, enhance the rig's performance and ease of use while maintaining its traditional essence.
-
-In the Paradox, the lug sail wraps around the boom, facilitated by a drum at the boom's front. This system, while simple in appearance, is quite efficient. Raising the sail involves releasing the furling line, allowing the boom to rotate and the sail to unfurl. Reefing, or reducing the sail area in response to wind and sea changes, is just the reverse process. It's quick and safe, crucial for adapting to varying conditions.
-
-The furling line extends into the cockpit via a vent box, improving both ease of use and safety. This is especially beneficial in tough weather or for solo sailing. All control lines, including the furling line, lead to the cabin, permitting sail management from a protected area, enhancing safety and convenience.
-
-The Paradox's mast is unstayed, meaning it doesn't have the usual wires or rigging. This absence reduces weight and complexity, aligning with the boat’s minimalist design philosophy focused on simplicity and efficiency.
-
-The lug sail on the Paradox blends traditional techniques with modern innovations. The sail's balanced design, coupled with its efficient furling and reefing system, demonstrates Matt Layden's skill in adapting historical concepts for contemporary sailing
-
 ## Rudder
 
 The Paradox sailboat's rudder is distinctively large compared to those on similarly sized vessels, serving functions beyond mere steering. Its considerable size is integral in distributing the sail load, a key factor in the boat's stability and performance. The rudder's one-inch thickness underscores its critical role in the Paradox's overall design, reflecting its dual purpose in steering accuracy and sail load management.
@@ -227,6 +203,30 @@ The use of lead as ballast is common in many sailing vessels due to its high den
 The Paradox also incorporates built-in water tanks as part of its ballasting system. These tanks serve a dual purpose: they provide supplemental ballast when filled, further lowering the boat's center of gravity and improving stability, and they also offer a fresh water supply for extended voyages.
 
 In terms of trailering, the water ballast system presents a significant advantage. When the tanks are emptied, the overall weight of the boat is reduced, making it easier to transport on a trailer. This feature is especially beneficial for sailors who frequently transport their boats overland. The reduction in trailer weight not only makes transportation easier but also more fuel-efficient, which is an important consideration for many boat owners.
+
+## Rig
+
+The Paradox sailboat is equipped with a lug sail, a practical and easy-to-handle design. 
+
+The balanced lug rig is a traditional sail configuration that has been used for centuries, particularly favored for its simplicity and effectiveness in smaller boats like the Paradox sailboat. This type of rig features a four-cornered sail set on a yard and a boom, with the luff (the forward edge of the sail) usually attached to a mast. A distinctive characteristic of the balanced lug sail is that the yard (the top spar) extends both in front of and behind the mast, giving the rig its "balanced" nature.
+
+This balance is crucial to the sail's performance. It results from the positioning of the sail's center of effort relative to the mast, with the part of the sail forward of the mast helping to counterbalance the force on the rest of the sail. This design reduces the tendency for the boat to head up into the wind (known as weather helm) and makes the rig more efficient, especially when sailing upwind.
+
+One of the main reasons balanced lug sails are favored is their ease of handling. They are relatively simple to rig and can be managed by a single sailor, making them ideal for small boats and solo sailing. The sail can be easily reefed to adapt to different wind conditions, and the rig typically requires less complex hardware compared to modern sail setups.
+
+In terms of versatility, the balanced lug rig performs well across a variety of wind conditions. It is particularly effective in light to moderate winds and offers good downwind performance. The rig's ability to sail closer to the wind than other traditional rigs like the gaff rig adds to its versatility.
+
+Historically, balanced lug sails were common on working boats due to their low cost and ease of construction. Today, they continue to be used on both traditional and classic boats, as well as on modern small craft where simplicity and ease of handling are key factors. Their classic, traditional aesthetic also adds to the appeal, with the distinct silhouette of the sail and its historical significance contributing to the overall charm of boats equipped with this rig.
+
+In modern adaptations, like in the Paradox sailboat, the balanced lug rig often includes contemporary materials and design improvements. These enhancements, such as efficient reefing systems and durable sail fabrics, enhance the rig's performance and ease of use while maintaining its traditional essence.
+
+In the Paradox, the lug sail wraps around the boom, facilitated by a drum at the boom's front. This system, while simple in appearance, is quite efficient. Raising the sail involves releasing the furling line, allowing the boom to rotate and the sail to unfurl. Reefing, or reducing the sail area in response to wind and sea changes, is just the reverse process. It's quick and safe, crucial for adapting to varying conditions.
+
+The furling line extends into the cockpit via a vent box, improving both ease of use and safety. This is especially beneficial in tough weather or for solo sailing. All control lines, including the furling line, lead to the cabin, permitting sail management from a protected area, enhancing safety and convenience.
+
+The Paradox's mast is unstayed, meaning it doesn't have the usual wires or rigging. This absence reduces weight and complexity, aligning with the boat’s minimalist design philosophy focused on simplicity and efficiency.
+
+The lug sail on the Paradox blends traditional techniques with modern innovations. The sail's balanced design, coupled with its efficient furling and reefing system, demonstrates Matt Layden's skill in adapting historical concepts for contemporary sailing
 
 ## Vent Trunk
 
