@@ -34,7 +34,7 @@ Yrvind noted an interesting aspect of Layden's sailing technique with the Parado
 
 ### Length Overall and Length Waterline
 
-The Paradox measures 13 feet 10 inches or 4.2 meters in overall length and has a waterline length of 13 feet 5 inches  or 4.1 meters. This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters.
+The Paradox measures 13 feet 10 inches or 4.2 meters in overall length and has a waterline length of 13 feet 5 inches  or 4.1 meters. This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters. 
 
 ### Beam and Draft
 
@@ -122,7 +122,7 @@ Swamp Thing was relatively small, with a length of 13 feet and 2 inches or 4 met
 
 Little Cruiser, built in 1988, marked another evolution in Layden's design philosophy. While similar in length to Swamp Thing, it represented a more complex design. It featured a centerboard and a battened lug sail with slab reefing, all lines leading down through the centerboard trunk into the cabin. The mast, stepped on deck, could be easily folded down with an unusual "A" frame tabernacle.
 
-The boat's design focused on creating ample interior space and ensuring the comfort and safety of its occupant in all weather conditions. Little Cruiser was well-insulated with foam, adding dryness and positive buoyancy, and was equipped with four large built-in water ballast tanks to facilitate long-range cruising.
+The boat's design focused on creating ample interior space and ensuring the comfort and safety of its occupant in all weather conditions. Little Cruiser was well-insulated with foam, adding dryness and positive buoyancy, and was equipped with four large built-in water ballast tanks to facilitate long-range cruising. Matt Layden even spent a winter aboard Little Cruiser in Cape Cod frozen into the ice. 
 
 Dave and Mindy Bolduc, who acquired Little Cruiser in 1992, undertook numerous journeys in her, including at least five more trips to the Bahamas. They emphasized Little Cruiser's robust construction, including a 1-inch thick plywood bottom and substantial framing, which proved invaluable during their extensive cruising, including a trip where they encountered a reef in the Bahamas. The boat's design allowed for easy beaching for repairs, highlighting its practicality for long-distance cruising.
 
