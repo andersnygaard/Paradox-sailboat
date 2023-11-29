@@ -14,7 +14,11 @@ The Paradox's gradual rise in popularity can be attributed to a few key factors.
 
 The Paradox sailboat has garnered significant accolades, particularly for its performance in the 2003 Everglades Challenge. This 300-mile race, known for its grueling nature, was a notable platform where the Paradox, a micro-cruiser designed by Layden, achieved remarkable success. Despite competing against boats with presumably more advantageous design elements (such as longer waterlines and lighter weight), Paradox defied expectations and emerged as a standout performer.
 
+### 2003 Everglades Challenge
+
 In the 2003 Everglades Challenge, Paradox not only won in its class but also secured an overall victory, finishing almost a day ahead of the next competitor. This achievement was a testament to both the skill and experience of Matt Layden as a sailor and the innovative design of the Paradox itself. The boat's performance in such a challenging race was a clear demonstration of its capabilities and Layden's prowess in boat design. His approach, often regarded as "the path less traveled," proved its effectiveness and challenged conventional wisdom in boat design at the time​​​​.
+
+### Sven Yrvind and the Paradox
 
 Sven Yrvind, a renowned sailor and small boat designer, has shared insightful views about Matt Layden's Paradox, highlighting its unique design features and the impact it has had on small boat sailing. Yrvind, deeply influenced by the Paradox, spent the spring of 1997 in Florida living and sailing with Matt Layden. During this period, he gained first-hand experience with the Paradox and its capabilities. Yrvind's observations and reflections on the Paradox are rooted in both admiration and a deep understanding of its design philosophy. 
 
