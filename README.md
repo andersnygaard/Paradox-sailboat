@@ -16,7 +16,9 @@ The Paradox sailboat has garnered significant accolades, particularly for its pe
 
 ### 2003 Everglades Challenge
 
-In the 2003 Everglades Challenge, Paradox not only won in its class but also secured an overall victory, finishing almost a day ahead of the next competitor. This achievement was a testament to both the skill and experience of Matt Layden as a sailor and the innovative design of the Paradox itself. The boat's performance in such a challenging race was a clear demonstration of its capabilities and Layden's prowess in boat design. His approach, often regarded as "the path less traveled," proved its effectiveness and challenged conventional wisdom in boat design at the time​​​​.
+In the 2003 Everglades Challenge, Matt Layden's Paradox was a unique presence among the fleet. While the starting line featured an array of sleek sailing kayaks, lightweight dinghies, and larger, faster boats, Paradox, with its distinctive design, was somewhat different from these more conventional craft​​.
+
+Despite appearing less streamlined compared to its competitors, Paradox excelled in the race. It not only won its class but also finished nearly a day ahead of the nearest competitor in the 300-mile or close to 500 kilometer race. This performance was a remarkable demonstration of the boat's capabilities and Matt Layden's expertise as both a sailor and a designer​​.
 
 ### Sven Yrvind and the Paradox
 
