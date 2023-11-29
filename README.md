@@ -118,7 +118,7 @@ The boat's design focused on creating ample interior space and ensuring the comf
 
 Dave and Mindy Bolduc, who acquired Little Cruiser in 1992, undertook numerous journeys in her, including at least five more trips to the Bahamas. They emphasized Little Cruiser's robust construction, including a 1-inch thick plywood bottom and substantial framing, which proved invaluable during their extensive cruising, including a trip where they encountered a reef in the Bahamas. The boat's design allowed for easy beaching for repairs, highlighting its practicality for long-distance cruising.
 
-### Impact on Paradox Design
+### Paradox
 
 The development of the Paradox was influenced by Swamp Thing, Little Cruiser, and Terapin. Swamp Thing introduced chine runners and a simplified sailing rig, elements that Layden adopted in the Paradox. Similarly, Little Cruiser contributed ideas regarding interior space and comfort, along with innovative centerboard and rigging systems. Terapin's design elements also played a part, further shaping Layden's approach. Ultimately, Layden opted for chine runners in the Paradox, prioritizing performance and simplicity, and deeming the centerboard's advantages as not substantial enough to justify its complexity.
 
@@ -151,7 +151,7 @@ The concept of chine runners in sailboats, as developed by Matt Layden, borrows 
 
 Layden, however, saw something in Bolger's edgings that others did not. He postulated that a modified bottom edging could significantly improve a flat-bottom boat's tacking abilities. To test this theory, Layden created two boat models of the same size, one with traditional round bilges and the other with a flat bottom and what he named "chinerunners." Through experiments towing the models in a brook, initially, at low speeds, the difference in resistance was negligible. However, when tested in faster currents or heeled over thirty degrees, the chinerunner model demonstrated clear superiority in speed. These experiments were promising enough for Layden to proceed with a full-scale trial.
 
-### Hydrodynamics vs aerodynamics ###
+#### Hydrodynamics vs aerodynamics ####
 The success of Layden's boat, despite conventional theories suggesting otherwise, is akin to the bumblebee's flight - seemingly defying expected norms. The attempt to explain the boat's tacking ability led to a departure from standard aircraft theories used in sailing. Instead, insights were gleaned from other flow phenomena, such as the theory of slender bodies which explains increased draw in a flow-line. This theory had previously been used by C.A. Marchaj to elucidate the efficiency of the traditional crab-claw sail in the Southern Pacific. It was hypothesized that a similar phenomenon might account for the Paradox's tacking ability.
 
 Chine runners can be likened to the aerodynamic "fences" seen in aircraft design. In aviation, these fences are structures on airplane wings that prevent unwanted lateral airflow, thereby maintaining a consistent flow over the wing and enhancing lift. Layden's application of this concept to sailboats through chine runners is an innovative step in marine design, as it borrows from a well-established aerodynamic principle and adapts it to hydrodynamic contexts.
