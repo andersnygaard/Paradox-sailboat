@@ -14,7 +14,7 @@ The Paradox's gradual rise in popularity can be attributed to a few key factors.
 
 ### 2003 Everglades Challenge
 
-In the 2003 Everglades Challenge, Matt Layden's Paradox stood out amongst the fleet, which included about fifty entries comprising special kayaks, lightweight dinghies, and larger, faster boats​​. Despite its seemingly uncompetitive appearance, the Paradox, heavier and less streamlined than its counterparts, demonstrated superior performance. This was not only a victory in its class but also an overall triumph in the 304-mile race, finishing nearly a day ahead of the next competitor​​.
+In the 2003 Everglades Challenge, Matt Layden's Paradox stood out amongst the fleet, which included about fifty entries comprising special kayaks, lightweight dinghies, and larger, faster boats​​. Although the Paradox appeared less competitive, being heavier and not as streamlined as other boats, it still performed exceptionally well. It won in its category and also achieved an overall victory in the 304-mile race, finishing almost a full day before the next competitor.
 
 The Paradox's success in the 2003 Everglades Challenge can be attributed to a combination of design ingenuity and Layden's sailing expertise. Unlike the lighter and ostensibly faster competitors, Paradox capitalized on its unique design to exploit the steady offshore winds, bypassing the unpredictable breezes found closer to land. This strategic choice was crucial for its remarkable performance. Additionally, the Paradox's design allowed Layden to rest and even sleep for short periods while moving, an advantage not available to competitors in kayaks.
 
