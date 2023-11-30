@@ -48,7 +48,7 @@ The mast of the paradox is just over 13 feet or 4 meters long and is designed fo
 
 ### Chine Runners
 
-Chine runners are one of the Paradox’s most innovative features. They are simple flanges on the bottom of the boat's flat hull, acting as substitutes for more traditional methods like leeboards or daggerboards, enabling the boat to sail windward effectively. Despite their simplicity and the shallow draft they allow, they are quite effective. They occupy the central third of the chine, which is underwater, and are robustly constructed, being 2 or 3 inches wide. These runners are integral in resisting the sideways force produced by the sail, and their effectiveness is enhanced by the boat's design, which requires a draft of about 1/5 of the beam. Interestingly, the effectiveness of chine runners is enhanced by heeling the boat, which helps in deeper submergence of the leeward chine and improves flow lines​​.
+Chine runners are one of the Paradox’s most innovative features. They are flanges on the bottom of the boat's flat hull, acting as substitutes for more traditional methods like leeboards or daggerboards, enabling the boat to sail windward effectively. Despite their simplicity and the shallow draft they allow, they are quite effective. They occupy the central third of the chine, which is underwater, and are robustly constructed, being 2 or 3 inches wide. These runners are integral in resisting the sideways force produced by the sail, and their effectiveness is enhanced by the boat's design, which requires a draft of about 1/5 of the beam. Interestingly, the effectiveness of chine runners is enhanced by heeling the boat, which helps in deeper submergence of the leeward chine and improves flow lines​​.
 
 ### Large Rudder
 
