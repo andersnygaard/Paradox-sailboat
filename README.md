@@ -2,7 +2,7 @@ Audiobook version here [https://soundcloud.com/anders-nygaard-642799450/a-guide-
 
 # A guide to the Paradox sailboat
 
-*This book is written by ChatGPT loaded with the knowledge of the Yahoo mailing list.*
+*This book was written with the assistance of a custom GPT, which has been enriched with knowledge from the Yahoo mailing list.*
 
 Paradox is one of Matt Layden's most successful micro-cruiser designs. Built in 1993, she was initially sailed from Connecticut down the Intracoastal Waterway and as far out as the Ragged Islands in the Bahamas. After cruising near his home in Florida for 10 years, she was then entered in the grueling 300-mile Everglades Challenge. There, she not only placed first in her class but also garnered overall honors. Paradox is 13 feet 10 inches  or 4.2 meters in length and a mere 48 inches or 1.2 meters wide. This guide explores its history, design, technical details, and the community that has grown around it.
 
