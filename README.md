@@ -100,7 +100,7 @@ The Paradox is designed with pleasing lines, which not only contribute to its ae
 
 ## The history of Matt Layden designs
 
-The progression of Matt Layden's boat designs culminating in the Paradox sailboat represents a captivating narrative of relentless innovation and hands-on experimentation. Before the Paradox, three key predecessors — "Terrapin," "Swamp Thing," and "Little Cruiser" — played crucial roles in shaping Layden's design philosophy. Each of these vessels bore distinct features and imparted valuable insights, directly influencing the development of the Paradox.
+Matt Layden's journey in boat design leading to the Paradox sailboat is a story of continuous innovation and practical experimentation. Before the Paradox, three notable designs — "Terrapin," "Swamp Thing," and "Little Cruiser" — were instrumental in shaping his approach to design. Each of these vessels bore distinct features and imparted valuable insights, directly influencing the development of the Paradox.
 
 Terrapin, one of Layden's earliest designs, introduced foundational concepts and revealed critical areas for improvement, particularly in terms of stability and leeway control. Following Terrapin, Swamp Thing marked a significant shift with its use of chine runners instead of traditional leeboards, enhancing upwind performance in shallow waters. Lastly, Little Cruiser, with its complex design including a centerboard and a focus on interior space and safety, further evolved Layden's approach. These boats collectively laid the groundwork for the advanced design and functionality embodied in the Paradox sailboat.
 
