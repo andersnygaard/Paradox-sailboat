@@ -16,6 +16,8 @@ The Paradox's gradual rise in popularity can be attributed to a few key factors.
 
 The internet's emergence played an essential role, providing a global stage for builders and sailors to connect, exchange ideas, and share experiences with the Paradox. This digital forum cultivated a community that spanned continents, unified by their interest in this unique boat. Consequently, the reputation of the Paradox has naturally expanded, propelled by the enthusiasm and wisdom of its international community of builders and sailors, rather than by any direct promotion from its designer.
 
+Approximately 100 Paradox sailboats have been built to date, from Argentina in the southern hemisphere to Sweden in the north.
+
 ### 2003 Everglades Challenge
 
 In the 2003 Everglades Challenge, Matt Layden's Paradox stood out amongst the fleet, which included about thirty entries comprising special kayaks, lightweight dinghies, and larger, faster boats​​. Although the Paradox appeared less competitive, being heavier and not as streamlined as other boats, the boat performed exceptionally well. It won in its category and also achieved an overall victory in the 304-mile race, finishing almost a full day before the next competitor.
