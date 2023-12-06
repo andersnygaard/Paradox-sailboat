@@ -50,7 +50,7 @@ The sail area of the Paradox is around 100 square feet or 9.3 square meters, whi
 
 ### Mast Height and Sail Area
 
-The mast of the paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
+The mast of the Paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
 
 ### Chine Runners
 
