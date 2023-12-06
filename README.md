@@ -1,5 +1,7 @@
 Audiobook version here [https://soundcloud.com/anders-nygaard-642799450/a-guide-to-the-paradox-sailboat](https://soundcloud.com/anders-nygaard-642799450/a-guide-to-the-paradox-sailboat)
 
+Pull requests are welcome, the author can be reached at [anders.nygaard@gmail.com](mailto:anders.nygaard@gmail.com)
+
 # A guide to the Paradox sailboat
 
 *This book was written with the assistance of a custom GPT enriched with knowledge from the Yahoo mailing list.*
