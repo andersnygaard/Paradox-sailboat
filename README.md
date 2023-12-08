@@ -256,9 +256,9 @@ The Paradox may not immediately catch the eye when seen on a trailer due to its 
 
 A critical aspect of the Paradox’s design is its self-righting capabilities. The Paradox, when properly loaded and ballasted, can right itself completely under normal circumstances. This is an essential feature for safety at sea, especially in challenging conditions. The design takes into account the dynamics of heeling and capsizing. When a boat heels beyond a certain degree, objects inside, including people, can fall against the cabin roof, altering the center of gravity and affecting the boat's ability to right itself. The Paradox is designed to manage these scenarios effectively.
 
-Comparatively, many dory and sharpie designs are not inherently self-righting or self-rescuing. Matt Layden, in designing the Paradox, began with a sharpie shape but modified it to behave more like a kayak. This means the Paradox is self-righting if someone is safely inside, and self-rescuing in that it can right itself if it completely capsizes, or "turns turtle", similar to a kayak rolling over in a storm (assuming there is no sail up)​​.
+Comparatively, many dory and sharpie designs are not inherently self-righting or self-rescuing. Matt Layden, in designing the Paradox, began with a sharpie shape but modified it to behave more like a kayak. This means the Paradox is self-righting if someone is safely inside, and self-rescuing in that it can right itself if it completely capsizes, or "turns turtle", similar to a kayak rolling over.
 
-These features of the Paradox, from its deceptive aesthetics to its robust self-righting ability, make it a unique and valuable vessel for enthusiasts and builders alike. The chapter will elaborate on these aspects, bringing to life the Paradox's transformation from an underestimated design on land to an elegant and safe cruiser on the water, further underscoring why this boat is a remarkable example of nautical engineering and design.
+These features of the Paradox, from its deceptive aesthetics to its robust self-righting ability, make it a unique and valuable vessel for enthusiasts and builders alike.
 
 ## Community and Legacy
 
