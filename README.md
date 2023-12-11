@@ -44,13 +44,13 @@ The Paradox isn't a fast sailboat; it doesn't plane, but on the other hand it's 
 
 Despite its small size, the Paradox can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
 
-### Beam, Draft, Length Overall and Length Waterline
+### Key measurements
 
 The Paradox sailboat spans an overall length of approximately 13 feet 10 inches or 4.2 meters and five inches or 10 centimeters shorter at the waterline. Its beam, measuring just over 4 feet or roughly 1.2 meters, helps provide a stable and maneuverable design suitable for navigating narrow passages. A standout feature of the Paradox is its shallow draft, at just 9 inches or 23 centimeters, enhancing its ability to traverse waters that remain off-limits to many larger vessels.
 
 ### Mast Height, Sail Area and Displacement
 
-The paradox features a balanced lug sail which measures around 100 square feet or 9.3 square meters. Ehen paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
+The paradox features a balanced lug sail which measures around 100 square feet or 9.3 square meters. When paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
 
 The mast of the Paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
 
