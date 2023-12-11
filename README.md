@@ -128,7 +128,7 @@ Dave and Mindy Bolduc, who acquired Little Cruiser in 1992, undertook numerous j
 
 ### Paradox
 
-The development of the Paradox was influenced by Swamp Thing, Little Cruiser, and Terapin. Swamp Thing introduced chine runners and a simplified sailing rig, elements that Layden adopted in the Paradox. Similarly, Little Cruiser contributed ideas regarding interior space and comfort, along with innovative centerboard and rigging systems. Terapin's design elements also played a part, further shaping Layden's approach. Ultimately, Layden opted for chine runners in the Paradox, prioritizing performance and simplicity, and deeming the centerboard's advantages as not substantial enough to justify its complexity.
+The development of the Paradox was influenced by Swamp Thing, Little Cruiser, and Terapin. Swamp Thing introduced chine runners and a simplified sailing rig, elements that Layden adopted in the Paradox. Similarly, Little Cruiser contributed ideas regarding interior space, comfort and rigging systems. Terapin's design elements also played a part, further shaping Layden's approach. Ultimately, Layden opted for chine runners in the Paradox, prioritizing performance and simplicity, and deeming the centerboard's advantages as not substantial enough to justify its complexity.
 
 ### Enigma
 
