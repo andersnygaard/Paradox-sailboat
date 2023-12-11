@@ -90,7 +90,7 @@ The Paradox includes a yuloh, an oar-like tool used for sculling. This feature u
 
 An innovative feature of the Paradox is the ability to store the mast inside the boat. This is practical for ease of transport and storage, reflecting the practicality of the design. A hole for the mast is incorporated into the transom, allowing for secure storage when the boat is not in use​​.
 
-### Shelves and Storage Space Under the Floors
+### Storage space
 
 Maximizing the limited space available in a micro-cruiser, the Paradox smartly incorporates shelves and storage spaces under the floors. This design choice ensures that essential gear and provisions can be stowed away neatly, maintaining the boat's center of gravity low and enhancing stability and safety.
 
