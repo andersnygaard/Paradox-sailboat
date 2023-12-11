@@ -44,13 +44,9 @@ The Paradox isn't a fast sailboat; it doesn't plane, but on the other hand it's 
 
 Despite its small size, the Paradox can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
 
-### Length Overall and Length Waterline
+### Beam, Draft, Length Overall and Length Waterline
 
-The Paradox measures 13 feet 10 inches or 4.2 meters in overall length and has a waterline length of 13 feet 5 inches  or 4.1 meters. This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters. 
-
-### Beam and Draft
-
-The beam of the Paradox, at 4 feet and a half inch or 1.23 meters, provides a balance between stability and the ability to navigate narrow channels. The boat's draft is surprisingly shallow at just 9 inches or 23 centimeters, allowing it to sail in waters that are inaccessible to many other vessels. This shallow draft is central to the Paradox's design philosophy, emphasizing versatility and exploration.
+The Paradox sailboat spans an overall length of approximately 13 feet 10 inches or 4.2 meters and five inches or 10 centimeters shorter at the waterline. Its beam, measuring just over 4 feet or roughly 1.2 meters, helps provide a stable and maneuverable design suitable for navigating narrow passages. A standout feature of the Paradox is its shallow draft, at just 9 inches or 23 centimeters, enhancing its ability to traverse waters that remain off-limits to many larger vessels.
 
 ### Mast Height, Sail Area and Displacement
 
