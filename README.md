@@ -38,6 +38,10 @@ Yrvind noted an interesting aspect of Layden's sailing technique with the Parado
 
 ## Key features of the Paradox
 
+At 13 feet long, the Paradox may seem small like a dinghy, but it's surprisingly spacious inside. It's built sturdy and durable, like an agricultural machinery, ready to withstand impacts. The unconventional design, particularly its flat bottom, often raises eyebrows and prompts inquiries about its performance capabilities.
+
+Granted, the Paradox isn't a sailboat built for speed; it won't plane, but on the other hand it's stable and not prone to capsizing. While it's not built for blue water sailing, it's perfectly capable for coastal journeys, taking you along the shorelines reliably.
+
 ### Length Overall and Length Waterline
 
 The Paradox measures 13 feet 10 inches or 4.2 meters in overall length and has a waterline length of 13 feet 5 inches  or 4.1 meters. This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters. 
