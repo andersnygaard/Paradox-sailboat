@@ -108,7 +108,7 @@ During his travels with Terrapin, including a journey to Florida and back to Con
 
 These insights gained from sailing Terrapin were instrumental in Layden's evolving design philosophy, particularly influencing his decision to move away from leeboards in favor of chine runners in his later designs, such as Swamp Thing​​​​.
 
-The Terrapin served as a foundational project for Layden, influencing his future creations. Its design elements, both successful and challenging, played a significant role in the evolution of his next designs, including the transition to chine runners as seen in his subsequent microcruiser, Swamp Thing​​​​.
+The Terrapin served as a foundational project for Layden, influencing his future creations. Its design elements, both successful and challenging, played a significant role in the evolution of his next designs, including the transition to chine runners as seen in his next microcruising sailboat.
 
 ### Swamp Thing
 
