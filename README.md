@@ -42,6 +42,8 @@ The Paradox, at 13 feet in length, may be the size of a dinghy, but its flat bot
 
 The Paradox isn't a fast sailboat; it doesn't plane, but on the other hand it's very stable and unlikely to capsize. It may not be the boat you choose for blue water sailing or crossing oceans, but it's quite capable for coastal cruising, offering reliable performance near the shore.
 
+Despite its small size, the Paradox can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
+
 ### Length Overall and Length Waterline
 
 The Paradox measures 13 feet 10 inches or 4.2 meters in overall length and has a waterline length of 13 feet 5 inches  or 4.1 meters. This compact size contributes to the boat’s agility and ease of handling, making it ideal for single-handed sailing or cruising in confined waters. 
@@ -50,11 +52,9 @@ The Paradox measures 13 feet 10 inches or 4.2 meters in overall length and has a
 
 The beam of the Paradox, at 4 feet and a half inch or 1.23 meters, provides a balance between stability and the ability to navigate narrow channels. The boat's draft is surprisingly shallow at just 9 inches or 23 centimeters, allowing it to sail in waters that are inaccessible to many other vessels. This shallow draft is central to the Paradox's design philosophy, emphasizing versatility and exploration.
 
-### Sail Area and Displacement
+### Mast Height, Sail Area and Displacement
 
-The sail area of the Paradox is around 100 square feet or 9.3 square meters, which, when paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
-
-### Mast Height and Sail Area
+The paradox features a balanced lug sail which measures around 100 square feet or 9.3 square meters. Ehen paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
 
 The mast of the Paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
 
@@ -69,10 +69,6 @@ The large rudder of the Paradox is not just for steering; it also carries some o
 ### Vent Trunk
 
 The vent trunk is a box-like structure that extends from the deck down to the floor of the boat, housing the mast step and mast partners. It allows ventilation, improving air flow within the boat and it provides a centralized location where most of the boat's lines are organized and directed back to the cockpit for easier handling.
-
-### Accommodation and Fresh Water Ballast
-
-The Paradox, despite its small size, can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
 
 ### Control Lines and Sailing Mechanics
 
