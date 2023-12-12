@@ -86,10 +86,6 @@ Despite its small size, the Paradox sailboat boasts a uniquely crafted cabin top
 
 The Paradox includes a yuloh, an oar-like tool used for sculling. This feature underscores the boat's versatility, allowing for propulsion even without wind. The yuloh is a traditional tool, particularly useful in calm conditions or when maneuvering in tight spaces.
 
-### Storing the Mast Inside the Boat
-
-An innovative feature of the Paradox is the ability to store the mast inside the boat. This is practical for ease of transport and storage, reflecting the practicality of the design. A hole for the mast is incorporated into the transom, allowing for secure storage when the boat is not in use​​.
-
 ### Storage space
 
 Maximizing the limited space available in a micro-cruiser, the Paradox smartly incorporates shelves and storage spaces under the floors. This design choice ensures that essential gear and provisions can be stowed away neatly, maintaining the boat's center of gravity low and enhancing stability and safety.
