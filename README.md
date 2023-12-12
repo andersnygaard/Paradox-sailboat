@@ -16,7 +16,7 @@ Layden's design philosophy, a blend of functionality, innovation, and an opennes
 
 The Paradox's gradual rise in popularity can be attributed to a few key factors. The availability of its detailed plans made it an accessible project for many sailing enthusiasts. Adding to its approachability was Don Elliott's comprehensive building guide, offering crucial guidance and simplifying the construction process for many builders. 
 
-The internet's emergence played an essential role, providing a global stage for builders and sailors to connect, exchange ideas, and share experiences with the Paradox. This digital forum cultivated a community that spanned continents, unified by their interest in this unique boat. Consequently, the reputation of the Paradox has naturally expanded, propelled by the enthusiasm and wisdom of its international community of builders and sailors, rather than by any direct promotion from its designer.
+The internet's emergence played an essential role, providing a global stage for builders and sailors to connect, exchange ideas, and share experiences with the Paradox. This digital forum cultivated a community that spanned continents, unified by their interest in this unique boat. Consequently, the reputation of the Paradox has naturally expanded, propelled by the enthusiasm and wisdom of its international community of builders and sailors, rather than by direct promotion from its designer.
 
 Perhaps as many as 100 Paradox sailboats may have been started or built to date, from Argentina in the southern hemisphere to Norway in the north.
 
