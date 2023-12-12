@@ -200,6 +200,8 @@ A notable feature of the Paradox is the cockpit-controlled rudder adjustment, al
 
 The tiller of the Paradox, extending through the transom, provides direct and responsive steering. Connected to the rudder stock, it passes through a transom aperture fitted with a vent baffle system. This ingenious system redirects any infiltrating water back to the sea, preserving the boat’s integrity and ensuring effective rudder operation in various sailing conditions.
 
+The design of the tiller allows for about 30 degrees of turn in each direction, providing precise and responsive steering for the sailor.
+
 ## Ballast
 
 The Paradox sailboat requires a relatively large amount of ballast to bring it down to its waterline, an essential aspect of its design for optimal performance. This need arises primarily due to the boat's underwater structure, particularly the chine runners. These chine runners are designed in such a way that the boat's draft needs to be at least one-fifth of its beam. To achieve this, approximately 400 pounds (180 kilograms) of lead ballast is placed under the floor, which is crucial for lowering the boat's center of gravity and enhancing stability, especially in choppy sea conditions.
