@@ -42,7 +42,7 @@ The Paradox, at 13 feet in length, may be the size of a dinghy, but its flat bot
 
 The Paradox is not the fastest sailboat of its class; it doesn't plane like modern dinghies. It sits low on it's lines and its strong point is its exceptional stability, making it much less likely to overturn. It's not a blue water sailing vessel for crossing oceans, but it's quite capable for coastal cruising, offering reliable performance near the shore.
 
-Despite its small size, the Paradox can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples. It incorporates about 18 and a half gallons or 70 liters of fresh water ballast, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
+Despite its small size, the Paradox can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples.
 
 ### Key measurements
 
@@ -93,6 +93,10 @@ An innovative feature of the Paradox is the ability to store the mast inside the
 ### Storage space
 
 Maximizing the limited space available in a micro-cruiser, the Paradox smartly incorporates shelves and storage spaces under the floors. This design choice ensures that essential gear and provisions can be stowed away neatly, maintaining the boat's center of gravity low and enhancing stability and safety.
+
+### Fresh water ballast
+
+The Paradox incorporates about 18 and a half gallons or 70 liters of fresh water ballast under the floors, a feature that enhances stability and sailing performance without significantly increasing the boat's weight or draft.
 
 ## The history of Matt Layden designs
 
