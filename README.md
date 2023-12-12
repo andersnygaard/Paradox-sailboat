@@ -272,8 +272,6 @@ The Paradox's impact goes beyond its design; it symbolizes simplicity, efficienc
 
 The Paradox has also influenced other designs by Matt Layden, like the Enigma 360 and 460, reflecting his evolving design philosophy. Individual builders add to the boat's legacy by customizing their Paradox, contributing to the collective knowledge and development of the design.
 
-In summary, the Paradox sailboat represents a journey of collective learning and a passion for sailing. Its simple design highlights a deep understanding of sailing dynamics and minimalism. The community around the Paradox shows its lasting appeal and its role in bringing people together from various backgrounds. As this community grows, the legacy of the Paradox and Matt Layden's vision will continue to shape small boat sailing.
-
 Thirty years on, the Paradox remains a testament to simplicity, functionality, and the joy of sailing. It's a reminder that sometimes, the most profound pleasures come from the smallest of vessels. To all who have been a part of this journey, whether by building, sailing, or simply admiring the Paradox, thank you. Here's to the continued voyage of this remarkable boat, may it continue to inspire and bring joy for many years to come.
 
 
