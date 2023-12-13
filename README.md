@@ -18,7 +18,7 @@ The Paradox's gradual rise in popularity can be attributed to a few key factors.
 
 The internet's emergence played an essential role, providing a global stage for builders and sailors to connect, exchange ideas, and share experiences with the Paradox. This digital forum cultivated a community that spanned continents, unified by their interest in this unique boat. Consequently, the reputation of the Paradox has naturally expanded, propelled by the enthusiasm and wisdom of its international community of builders and sailors, rather than by direct promotion from its designer.
 
-As many as 100 Paradox sailboats may have been started or built to date, from Argentina in the southern hemisphere to Norway in the north.
+Somewhere between 50 and 100 Paradox sailboats may have been started or built to date, from Argentina in the southern hemisphere to Norway in the north.
 
 ### 2003 Everglades Challenge
 
