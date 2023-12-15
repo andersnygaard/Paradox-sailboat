@@ -40,7 +40,7 @@ Yrvind noted an interesting aspect of Layden's sailing technique with the Parado
 
 The Paradox, at 13 feet in length, may be the size of a dinghy, but its flat bottom and box-like shape make the interior quite spacious. It's built to be sturdy and durable, with an almost agricultural robustness, giving a solid feel that the boat will handle whatever the sea throws at it. The unconventional design, particularly its flat bottom, is truly a conversation starter.
 
-The Paradox is not the fastest sailboat of its class; it doesn't plane like modern dinghies. It sits low on it's lines and its strong point is its exceptional stability, making it much less likely to overturn. It's not a blue water sailing vessel for crossing oceans, but it's quite capable for coastal cruising, offering reliable performance near the shore.
+The Paradox is not the fastest sailboat of its class; it doesn't plane like modern dinghies. It sits low on it's lines and its strong point is its exceptional stability, making it much less likely to overturn. It's not a blue water sailing vessel for crossing oceans, but it's very much capable for coastal cruising, offering reliable performance near the shore.
 
 Despite its small size, the Paradox can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples.
 
