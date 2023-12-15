@@ -264,8 +264,6 @@ For the last 20 years, Paradox has been surrounded by a community-driven spirit.
 
 The Paradox community is diverse, ranging from beginners to experienced sailors. This mix of skills and experiences enhances the community, as members discuss various aspects of building and sailing the Paradox. Newcomers receive support and guidance, while seasoned sailors share stories and advice.
 
-One unifying factor in this community is the enthusiasm for the Paradox's unique features, like its chine runners, easy-to-manage roller furling main sail, its self-righting capability and positive buoyancy.
-
 The Paradox's impact goes beyond its design; it symbolizes simplicity, efficiency, and a connection with nature. Its minimalist approach to sailing aligns with sustainable and environmentally friendly boating practices.
 
 The Paradox has also influenced other designs by Matt Layden, like the Enigma 360 and 460, reflecting his evolving design philosophy. Individual builders add to the boat's legacy by customizing their Paradox, contributing to the collective knowledge and development of the design.
