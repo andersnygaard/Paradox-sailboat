@@ -274,3 +274,4 @@ Thirty years on, the Paradox remains a testament to simplicity, functionality, a
 # Sources
 * [https://groups.io/g/paradoxsailboat](https://groups.io/g/paradoxsailboat)
 * [https://microcruising.com/](https://microcruising.com/)
+* [http://www.jimsboats.com/1nov14.htm#chine%20runners](http://www.jimsboats.com/1nov14.htm#chine%20runners)
