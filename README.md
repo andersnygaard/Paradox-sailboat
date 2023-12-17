@@ -272,5 +272,5 @@ Thirty years on, the Paradox remains a testament to simplicity, functionality, a
 
 
 # Sources
-* The Yahoo mailing list, now found at [https://groups.io/g/paradoxsailboat](https://groups.io/g/paradoxsailboat)
+* [https://groups.io/g/paradoxsailboat](https://groups.io/g/paradoxsailboat)
 * [https://microcruising.com/](https://microcruising.com/)
