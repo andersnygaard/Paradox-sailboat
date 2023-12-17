@@ -271,3 +271,6 @@ The Paradox has also influenced other designs by Matt Layden, like the Enigma 36
 Thirty years on, the Paradox remains a testament to simplicity, functionality, and the joy of sailing. It's a reminder that sometimes, the most profound pleasures come from the smallest of vessels. To all who have been a part of this journey, whether by building, sailing, or simply admiring the Paradox, thank you. Here's to the continued voyage of this remarkable boat, may it continue to inspire and bring joy for many years to come.
 
 
+# Sources
+* The Yahoo mailing list, now found at [https://groups.io/g/paradoxsailboat](https://groups.io/g/paradoxsailboat)
+* [https://microcruising.com/](https://microcruising.com/)
