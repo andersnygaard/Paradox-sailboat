@@ -48,7 +48,7 @@ The Paradox sailboat spans an overall length of approximately 13 feet 10 inches 
 
 ### Mast Height, Sail Area and Displacement
 
-The Paradox's rig can be best described as a standing lug rig. In this setup, the front end of the boom is attached just forward of the mast to the deck using a tack strop. This tack strop not only guides the roller furler line but also holds the roller furling drum, thereby facilitating the free rotation of the boom. Sail area measures around 100 square feet or 9.3 square meters. When paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
+The Paradox's rig can be best described as a standing lug rig with a roller furling boom. In this perticular setup, the front end of the boom is attached just forward of the mast to the deck using a tack strop. This tack strop not only guides the roller furler line but also holds the roller furling drum, thereby facilitating the free rotation of the boom. Sail area measures around 100 square feet or 9.3 square meters. When paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
 
 The mast of the Paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
 
@@ -222,7 +222,7 @@ In terms of trailering, the water ballast system presents a significant advantag
 
 ## Rig
 
-The Paradox sailboat is equipped with a rigging system that can be most accurately described as a standing lug rig. However, a small portion of the sail's lower area extends forward of the mast, similar to the arrangement found in a balanced lug rig. This traditional and efficient rigging style is particularly well-suited for small vessels like the Paradox, offering a balance of simplicity and performance.
+The Paradox sailboat features a rigging system that primarily resembles a standing lug rig. Notably, a segment of the sail's lower section projects ahead of the mast, akin to what is seen in a balanced lug rig. Additionally, the boat is outfitted with a roller furling boom. This rig, blending traditional design with modern elements, is exceptionally fitting for compact vessels such as the Paradox, providing an optimal mix of straightforward operation and sailing efficiency.
 
 The rig features a boom, attached to the deck slightly forward of the mast via a tack strop. This tack strop performs dual roles: it guides the roller furler line and supports the roller furling drum, facilitating the boom's rotation for efficient sail furling and unfurling. The boom is designed to taper gently, ensuring effective gathering of the sail.
 
