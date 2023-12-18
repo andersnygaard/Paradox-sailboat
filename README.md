@@ -222,21 +222,11 @@ In terms of trailering, the water ballast system presents a significant advantag
 
 ## Rig
 
-The Paradox sailboat is equipped with a lug sail, a practical and easy-to-handle design. 
+The Paradox sailboat is equipped with a rigging system that can be most accurately described as a standing lug rig. However, a portion of the sail's lower area extends forward of the mast, similar to the arrangement found in a balanced lug rig. This traditional and efficient rigging style is particularly well-suited for small vessels like the Paradox, offering a balance of simplicity and performance.
 
-The balanced lug rig is a traditional sail configuration that has been used for centuries, particularly favored for its simplicity and effectiveness in smaller boats like the Paradox sailboat. This type of rig features a four-cornered sail set on a yard and a boom, with the luff (the forward edge of the sail) usually attached to a mast. A distinctive characteristic of the balanced lug sail is that the yard (the top spar) extends both in front of and behind the mast, giving the rig its "balanced" nature.
+The rig includes a boom, which is connected to the deck just ahead of the mast by a tack strop. This tack strop serves two functions: it directs the roller furler line and supports the roller furling drum, allowing the boom to rotate smoothly.
 
-This balance is crucial to the sail's performance. It results from the positioning of the sail's center of effort relative to the mast, with the part of the sail forward of the mast helping to counterbalance the force on the rest of the sail. This design reduces the tendency for the boat to head up into the wind (known as weather helm) and makes the rig more efficient, especially when sailing upwind.
-
-One of the main reasons balanced lug sails are favored is their ease of handling. They are relatively simple to rig and can be managed by a single sailor, making them ideal for small boats and solo sailing. The sail can be easily reefed to adapt to different wind conditions, and the rig typically requires less complex hardware compared to modern sail setups.
-
-In terms of versatility, the balanced lug rig performs well across a variety of wind conditions. It is particularly effective in light to moderate winds and offers good downwind performance. The rig's ability to sail closer to the wind than other traditional rigs like the gaff rig adds to its versatility.
-
-Historically, balanced lug sails were common on working boats due to their low cost and ease of construction. Today, they continue to be used on both traditional and classic boats, as well as on modern small craft where simplicity and ease of handling are key factors. Their classic, traditional aesthetic also adds to the appeal, with the distinct silhouette of the sail and its historical significance contributing to the overall charm of boats equipped with this rig.
-
-In modern adaptations, like in the Paradox sailboat, the balanced lug rig often includes contemporary materials and design improvements. These enhancements, such as efficient reefing systems and durable sail fabrics, enhance the rig's performance and ease of use while maintaining its traditional essence.
-
-In the Paradox, the lug sail wraps around the boom, facilitated by a drum at the boom's front. This system, while simple in appearance, is quite efficient. Raising the sail involves releasing the furling line, allowing the boom to rotate and the sail to unfurl. Reefing, or reducing the sail area in response to wind and sea changes, is just the reverse process. It's quick and safe, crucial for adapting to varying conditions.
+Raising the sail involves releasing the furling line, allowing the boom to rotate and the sail to unfurl. Reefing, or reducing the sail area in response to wind and sea changes, is just the reverse process. It's quick and safe, crucial for adapting to varying conditions.
 
 The furling line extends into the cockpit via a vent box, improving both ease of use and safety. This is especially beneficial in tough weather or for solo sailing. All control lines, including the furling line, lead to the cabin, permitting sail management from a protected area, enhancing safety and convenience.
 
