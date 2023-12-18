@@ -48,7 +48,7 @@ The Paradox sailboat spans an overall length of approximately 13 feet 10 inches 
 
 ### Mast Height, Sail Area and Displacement
 
-The paradox features a modified balanced lug rig, and its sail area measures around 100 square feet or 9.3 square meters. When paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
+The Paradox's rig can be best described as a standing lug rig. In this setup, the front end of the boom is attached just forward of the mast to the deck using a tack strop. This tack strop not only guides the roller furler line but also holds the roller furling drum, thereby facilitating the free rotation of the boom. Sail area measures around 100 square feet or 9.3 square meters. When paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
 
 The mast of the Paradox is just over 13 feet or 4 meters long and is designed for easy rigging up and down. During transport, the mast can be stored inside the boat using a small hatch on the boats transom.
 
