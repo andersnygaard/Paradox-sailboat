@@ -224,7 +224,7 @@ In terms of trailering, the water ballast system presents a significant advantag
 
 The Paradox sailboat is equipped with a rigging system that can be most accurately described as a standing lug rig. However, a portion of the sail's lower area extends forward of the mast, similar to the arrangement found in a balanced lug rig. This traditional and efficient rigging style is particularly well-suited for small vessels like the Paradox, offering a balance of simplicity and performance.
 
-The rig includes a boom, which is connected to the deck just ahead of the mast by a tack strop. This tack strop serves two functions: it directs the roller furler line and supports the roller furling drum, allowing the boom to rotate smoothly.
+The rig features a boom, attached to the deck slightly forward of the mast via a tack strop. This tack strop performs dual roles: it guides the roller furler line and supports the roller furling drum, facilitating the boom's rotation for efficient sail furling and unfurling. The boom is designed to taper gently, ensuring effective gathering of the sail.
 
 Raising the sail involves releasing the furling line, allowing the boom to rotate and the sail to unfurl. Reefing, or reducing the sail area in response to wind and sea changes, is just the reverse process. It's quick and safe, crucial for adapting to varying conditions.
 
