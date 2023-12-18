@@ -6,7 +6,7 @@ Feel free to commit a pull request or join the project. The author can be reache
 
 *This book was written with the assistance of a custom GPT enriched with knowledge from the Yahoo mailing list.*
 
-Paradox is one of Matt Layden's most successful micro-cruiser designs. Built in 1993, she was initially sailed from Connecticut down the Intracoastal Waterway and as far out as the Ragged Islands in the Bahamas. After cruising near Laydens home in Florida for 10 years, she was then entered in the grueling 300-mile Everglades Challenge. There, she not only placed first in her class but also garnered overall honors. Paradox is 13 feet 10 inches  or 4.2 meters in length and a mere 48 inches or 1.2 meters wide, yet its voyages from around the world include sailing down the US East Coast, around Florida, visiting the Bahamas and Cuba, traveling between the Hawaiian Islands, and navigating around Cape Leeuwin at Australia's southwestern tip. This year marks the 30th anniversary of the Paradox, and this guide aims to explore its history, design, technical details, and the community that has grown around it.
+Paradox is one of Matt Layden's most successful micro-cruiser designs. Built in 1993, she was initially sailed from Connecticut down the Intracoastal Waterway and as far out as the Ragged Islands in the Bahamas. After a decade of cruising near Layden's home in Florida, the Paradox was entered in the 300-mile Everglades Challenge. In this challenging race, she not only secured first place in her class but also reached the finish line almost a day ahead of the next competitor. Paradox is 13 feet 10 inches  or 4.2 meters in length and a mere 48 inches or 1.2 meters wide, yet its voyages from around the world include sailing down the US East Coast, around Florida, visiting the Bahamas and Cuba, traveling between the Hawaiian Islands, and navigating around Cape Leeuwin at Australia's southwestern tip. This year marks the 30th anniversary of the Paradox, and this guide aims to explore its history, design, technical details, and the community that has grown around it.
 
 ### The Wizard and the paradox
 
@@ -41,8 +41,6 @@ Yrvind noted an interesting aspect of Layden's sailing technique with the Parado
 The Paradox, at 13 feet in length, may be the size of a dinghy, but its flat bottom and box-like shape make the interior quite spacious. It's built to be sturdy and durable, with an almost agricultural robustness, giving a solid feel that the boat will handle whatever the sea throws at it. The unconventional design, particularly its flat bottom, is truly a conversation starter.
 
 The Paradox is not the fastest sailboat of its class; it doesn't plane like modern dinghies. It sits low on it's lines and its strong point is its exceptional stability, making it much less likely to overturn. It's not a blue water sailing vessel for crossing oceans, but it's very much capable for coastal cruising, offering reliable performance near the shore.
-
-Despite its small size, the Paradox can accommodate two people comfortably for coastal cruising. This makes it an ideal boat for solo adventurers or couples.
 
 ### Key measurements
 
