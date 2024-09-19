@@ -94,7 +94,7 @@ The Paradox incorporates about 18 and a half gallons or 70 liters of fresh water
 
 ## The history of Matt Layden designs
 
-Matt Layden's journey in boat design leading to the Paradox sailboat is a story of continuous innovation and practical experimentation. Before the Paradox, three notable designs — "Terrapin," "Swamp Thing," and "Little Cruiser" — were instrumental in shaping his approach to design. Each of these vessels bore distinct features and imparted valuable insights, directly influencing the development of the Paradox.
+Before the Paradox, three notable designs — "Terrapin," "Swamp Thing," and "Little Cruiser" — were instrumental in shaping Matt Laydens approach to design. Each of these vessels bore distinct features and imparted valuable insights, directly influencing the development of the Paradox.
 
 Terrapin, one of Layden's earliest designs, introduced foundational concepts and revealed critical areas for improvement, particularly in terms of stability and leeway control. Following Terrapin, Swamp Thing marked a significant shift with its use of chine runners instead of traditional leeboards, enhancing upwind performance in shallow waters. Lastly, Little Cruiser, with its complex design including a centerboard and a focus on interior space and safety, further evolved Layden's approach. These boats collectively laid the groundwork for the advanced design and functionality embodied in the Paradox sailboat.
 
