@@ -14,7 +14,7 @@ Now, on its 30th anniversary, Paradox continues to inspire small-boat enthusiast
 
 ### The Wizard and the paradox
 
-Matt Layden, often referred to in the small boat community as “Wizard,” is a designer who prefers to let his work speak for itself. While he spends his days creating megayachts, his true passion lies in compact, capable sailboats—most notably the Paradox. This unassuming vessel, which draws just 9 inches (23 centimeters) of water, embodies Layden’s inventive and streamlined approach to boat design.
+Matt Layden, often referred to in the small boat community as “Wizard,” is a designer who prefers to let his work speak for itself. Designing megayachts for a living, his other passion lies in compact, capable sailboats—most notably the Paradox. This unassuming vessel, which draws just 9 inches (23 centimeters) of water, embodies Layden’s inventive and streamlined approach to boat design.
 
 At first glance, the Paradox recalls the classic sharpie, a traditional style known for its flat-bottomed hull and pointed bow. However, Layden’s design refines those elements for modern explorers. Its narrow beam and shallow draft excel in bays, estuaries, and coastal waterways, letting sailors venture into places larger vessels often skip. Layden himself spent years navigating the U.S. East Coast in the late 1980s and early 1990s aboard small craft, gliding through winding marshes and exploring hidden inlets.
 
