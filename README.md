@@ -64,6 +64,12 @@ The Paradox is not the fastest sailboat of its class; it doesn't plane like mode
 
 The Paradox sailboat spans an overall length of approximately 13 feet 10 inches or 4.2 meters and five inches or 10 centimeters shorter at the waterline. Its beam, measuring just over 4 feet or roughly 1.2 meters, helps provide a stable and maneuverable design suitable for navigating narrow passages. A standout feature of the Paradox is its shallow draft, at just 9 inches or 23 centimeters, enhancing its ability to traverse waters that remain off-limits to many larger vessels.
 
+- **Overall Length (LOA):** ~13 ft 10 in (4.2 m)
+- **Length Waterline (LWL):** ~13 ft 5 in (4.1 m)
+- **Beam:** ~4 ft (1.2 m)
+- **Draft:** ~9 in (23 cm)
+- **Displacement:** ~1400 lbs (640 kg)
+
 ### Mast Height, Sail Area and Displacement
 
 The Paradox's rig can be best described as a standing lug rig with a roller furling boom. In this perticular setup, the front end of the boom is attached just forward of the mast to the deck using a tack strop. This tack strop not only guides the roller furler line but also holds the roller furling drum, thereby facilitating the free rotation of the boom. Sail area measures around 100 square feet or 9.3 square meters. When paired with the boat’s displacement of approximately 1400 lbs or 640 kilograms, it delivers a sail plan that is efficient yet manageable in various wind conditions. The sail design is critical for the boat's performance, particularly given its unique underbody configuration.
