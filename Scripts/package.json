@@ -1,0 +1,20 @@
+{
+  "name": "paradox-sailboat-preprocessing",
+  "version": "1.0.0",
+  "description": "Preprocessing script for Paradox sailboat README content",
+  "main": "01_preprocessing.js",
+  "scripts": {
+    "start": "node 01_preprocessing.js",
+    "preprocess": "node 01_preprocessing.js",
+    "output-media": "node 03_output_media.js"
+  },
+  "keywords": ["preprocessing", "markdown", "text-processing"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+} 
