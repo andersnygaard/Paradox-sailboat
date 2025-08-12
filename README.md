@@ -116,6 +116,8 @@ The low, hard cabin top sheds spray and keeps the watchkeeper dry. You can sit w
 
 In calms a yuloh or sculling oar moves the boat quietly and with good control. Owners report steady speeds a little under 2 knots for long stretches without undue strain. A curved blade around 9 to 10 ft long with a lanyard at the handle eases the wrist. A simple socket or notch near the starboard after corner of the cockpit works.
 
+### Storage space
+
 Paradox rewards tidy loading, with heavy gear stowed under the floor and along the sole to keep weight low, while lighter items ride on the side shelves. This arrangement gives a calm, steady motion: mass stays near the boat’s middle, the ends remain light, and the chine runners keep their grip. The flat bottom and runners make loading straightforward on a beach, and the boat will stand upright as the tide falls, so stores can be arranged at leisure.
 
 Higher up, the shelves are kept shallow for light gear such as clothing, charts, and first-aid supplies, with small fiddles and light bungee or netting to keep contents in place. Because so much stowage lies low and central, trim can be fine-tuned by shifting only small amounts of weight; the boat responds quickly to such changes yet remains forgiving. Overall, everything has a home, it stays there, and the interior stays uncluttered for easy living at sea.
@@ -127,6 +129,7 @@ Paradox carries roughly 70 litres of internal water ballast beneath the cabin so
 The ballast tanks form part of the floor’s structure, arranged as long, shallow compartments with smooth internal contours and baffles to check movement of the water. Their location low and central contributes directly to stability and comfort under sail.
 
 In practice, most crews take on ballast at launch and keep the tanks full for windward work or in choppy conditions, then drain them before beaching, hauling out, or trailering. Empty tanks reduce overall displacement and make the boat easier to handle ashore, while full tanks enhance performance and control afloat.
+
 ## The early years
 
 Before Paradox, Matt Layden taught himself how to cruise by building small boats and pointing them south. He started with Terrapin, a 16-foot catboat, about 4.9 meters. In 1985 he built Swamp Thing, a skinny, decked sharpie with chine runners and a boom-furling balanced lug that was light enough to row and scull. With Swamp Thing he left Connecticut, worked down the Intracoastal Waterway, and crossed the Gulf Stream to the Bahamas. He built on tight budgets with plywood, epoxy, and hand tools, learning what was worth carrying and what was not, and how much reliability you get from simple gear that you can fix yourself.
