@@ -62,7 +62,7 @@ Paradox stands as one of the more proven microcruisers. It’s small outside, su
 For many owners, that’s the point of the whole movement: useful shelter, simple systems, and low barriers to actually going. The online community—Microcruising.com, Duckworks, Small Craft Advisor, and blogs like Dirty Wet Dog—continues to share ideas, refine designs, and inspire new sailors to go small and go now.
 
 
-### Key measurements
+## Key measurements and features
 
 The Paradox has an overall length of about 13 feet 10 inches, or 4.2 meters. The waterline length is near 13 feet 5 inches, or 4.1 meters. Beam is just over 4 feet, about 1.2 meters. Draft is roughly 9 inches, or 23 centimeters, since there is no centerboard or daggerboard to lower. Displacement in cruising trim is about 1,400 pounds, or 640 kilograms.
 
