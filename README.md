@@ -130,7 +130,7 @@ The ballast tanks form part of the floor’s structure, arranged as long, shallo
 
 In practice, most crews take on ballast at launch and keep the tanks full for windward work or in choppy conditions, then drain them before beaching, hauling out, or trailering. Empty tanks reduce overall displacement and make the boat easier to handle ashore, while full tanks enhance performance and control afloat.
 
-## The early years
+## The history of the Paradox
 
 Before Paradox, Matt Layden taught himself how to cruise by building small boats and pointing them south. He started with Terrapin, a 16-foot catboat, about 4.9 meters. In 1985 he built Swamp Thing, a skinny, decked sharpie with chine runners and a boom-furling balanced lug that was light enough to row and scull. With Swamp Thing he left Connecticut, worked down the Intracoastal Waterway, and crossed the Gulf Stream to the Bahamas. He built on tight budgets with plywood, epoxy, and hand tools, learning what was worth carrying and what was not, and how much reliability you get from simple gear that you can fix yourself.
 
