@@ -116,22 +116,17 @@ The low, hard cabin top sheds spray and keeps the watchkeeper dry. You can sit w
 
 In calms a yuloh or sculling oar moves the boat quietly and with good control. Owners report steady speeds a little under 2 knots for long stretches without undue strain. A curved blade around 9 to 10 ft long with a lanyard at the handle eases the wrist. A simple socket or notch near the starboard after corner of the cockpit works.
 
-### Storage space
+Paradox rewards tidy loading, with heavy gear stowed under the floor and along the sole to keep weight low, while lighter items ride on the side shelves. This arrangement gives a calm, steady motion: mass stays near the boat’s middle, the ends remain light, and the chine runners keep their grip. The flat bottom and runners make loading straightforward on a beach, and the boat will stand upright as the tide falls, so stores can be arranged at leisure.
 
-Paradox rewards tidy loading, with heavy gear tucked under the floor and along the sole to keep weight low while lighter items ride on the side shelves. The effect is a calm, steady motion: mass stays near the boat’s middle, the ends remain light, and the chine runners keep their grip. The flat bottom and runners make loading straightforward on a beach, and the boat will stand upright as the tide falls, so stores can be arranged at leisure.
-
-Higher up, the shelves are sized for light gear—clothing, charts, first-aid—kept modest in depth at about 150–200 mm (6–8 in), with small fiddles around 20–25 mm (¾–1 in) and light bungee or netting to keep contents in place. A short “wet” zone near the companionway often takes anchor warp and foul-weather gear with drainage to the sump, leaving the forward cabin dry for bedding. Because so much stowage lies low and central, trim can be fine-tuned by shifting a few kilograms (5–10 lb) at a time; the boat responds quickly to small changes yet remains forgiving. Overall, everything has a home, it stays there, and the interior stays uncluttered for easy living at sea.
+Higher up, the shelves are kept shallow for light gear such as clothing, charts, and first-aid supplies, with small fiddles and light bungee or netting to keep contents in place. Because so much stowage lies low and central, trim can be fine-tuned by shifting only small amounts of weight; the boat responds quickly to such changes yet remains forgiving. Overall, everything has a home, it stays there, and the interior stays uncluttered for easy living at sea.
 
 ### Fresh water ballast
 
-Paradox carries about 70 litres of internal water ballast under the cabin sole—roughly 18.5 US gal and about 70 kg (155 lb) placed very low. This weight adds stiffness, lets the chine runners “bite” better to windward, and steadies the helm, all without adding draft.
+Paradox carries roughly 70 litres of internal water ballast beneath the cabin sole — about 18½ US gallons, giving a mass of 70 kg (155 lb) positioned low in the hull. This ballast adds stiffness, improves the chine runners’ grip when sailing to windward, and steadies the helm, all without increasing draft.
 
-The tanks are part of the floor structure: long, low compartments with rounded corners, full epoxy coating, and baffles or partial bulkheads to limit slosh and support the sole. Each tank needs a simple trio of fittings: fill, vent (high), and drain/withdrawal (low). Fit inspection ports so you can see, clean, and dry the interiors. If you plan to draw from these tanks for cooking or washing, finish and plumb that system separately to potable standards.
+The ballast tanks form part of the floor’s structure, arranged as long, shallow compartments with smooth internal contours and baffles to check movement of the water. Their location low and central contributes directly to stability and comfort under sail.
 
-In use, most crews fill at the ramp and sail with tanks full for windward work and lumpy water, then drain before beaching, hauling, or road travel. Keep vents closed underway, rinse and dry between trips, and inspect coatings annually.
-
-Taken together these features point to a small cruiser that rewards simple habits. The long waterline and runners make good progress for the size. The big rudder and inside controls reduce workload in gusts and squalls. The vent trunk, low cabin, and shallow gear let the boat move through creeks, sit upright on a beach, and keep the sailor dry and organized. Built to plan with proper materials and flotation, Paradox is a compact boat that is easy to handle alone, steady in ordinary weather, and practical to maintain and trailer.
-
+In practice, most crews take on ballast at launch and keep the tanks full for windward work or in choppy conditions, then drain them before beaching, hauling out, or trailering. Empty tanks reduce overall displacement and make the boat easier to handle ashore, while full tanks enhance performance and control afloat.
 ## The early years
 
 Before Paradox, Matt Layden taught himself how to cruise by building small boats and pointing them south. He started with Terrapin, a 16-foot catboat, about 4.9 meters. In 1985 he built Swamp Thing, a skinny, decked sharpie with chine runners and a boom-furling balanced lug that was light enough to row and scull. With Swamp Thing he left Connecticut, worked down the Intracoastal Waterway, and crossed the Gulf Stream to the Bahamas. He built on tight budgets with plywood, epoxy, and hand tools, learning what was worth carrying and what was not, and how much reliability you get from simple gear that you can fix yourself.
