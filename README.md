@@ -14,15 +14,15 @@ Now, even passed its 30th anniversary, Paradox continues to inspire small-boat e
 
 ### The Wizard and the paradox
 
-Matt Layden, known in the small boat scene as Wizard, prefers to maintain a low-key presence and has a limited footprint online. Designing megayachts for a living, his other passion lies in small sailboats and his designs, especially the Paradox, have made a significant impact in the small boat community.
+Matt Layden, known in the small boat scene as Wizard, prefers to maintain a low-key presence and has a limited footprint online. Designing megayachts for a living, his other passion lies in small sailboats, and his designs—especially the Paradox—have made a significant impact in the small boat community.
 
-At first glance, the Paradox recalls the classic sharpie, a traditional style known for its flat-bottomed hull and pointed bow. Layden refined those elements for modern thin-water exploring. Paradox is 13 feet 10 inches long (4.2 meters), carries about 100 square feet of sail (9.3 square meters), displaces roughly 1,410 pounds (640 kilograms) in typical cruising trim, and draws about 9 inches (23 centimeters). There is no centerboard, no daggerboard, and no skeg. Instead, long chine runners along the turn of the bilge provide lateral resistance and tracking without adding draft. The bottom is flat and the rocker is noticeable, which helps the boat turn easily and settle upright when grounded. Those traits suit bays, estuaries, and protected coastal waterways. Layden spent years along the U.S. East Coast in the late 1980s and early 1990s aboard small craft, working out exactly this kind of cruising.
+At first glance, the Paradox recalls the classic sharpie, a traditional style known for its flat-bottomed hull and pointed bow. Layden refined those elements for modern thin-water exploring. Paradox is 13 feet 10 inches long (4.2 meters), carries about 100 square feet of sail (9.3 square meters), displaces roughly 1,410 pounds (640 kilograms) in typical cruising trim, and draws about 9 inches (23 centimeters). There is no centerboard, no daggerboard, and no skeg. Instead, long chine runners along the turn of the bilge provide lateral resistance and tracking without adding draft. The bottom is flat with a pronounced rocker—a shoebox on the water—which helps the stability of the boat and makes it settle upright at low tide. Those traits suit bays, estuaries, and protected coastal waterways. Layden spent years along the U.S. East Coast in the late 1980s and early 1990s aboard small craft, working out exactly this kind of cruising.
 
-Central to the design is a practical, experimental mindset. The cabin follows the birdwatcher concept with long side windows and full enclosure. In the standard drawings, all working lines and the steering position are brought inside so the boat can be sailed and reefed under cover. Loads are modest and the rig is simple. The hull is built from marine plywood sealed with epoxy, with mostly straight runs and gentle curves, intended for the careful home builder using ordinary tools.
+Central to the design is a practical, experimental mindset. The cabin is fully enclosed, with wide windows and a hatch that can be opened in sunny weather and closed when the rain sets in. In the standard drawings, all working lines and the steering position are brought inside so the boat can be sailed and reefed under cover. Loads are modest and the rig is simple. The hull is built from marine plywood sealed with epoxy, with mostly straight runs and gentle curves, intended for the careful home builder using ordinary tools.
 
 For its length, the interior is genuinely usable: there is sitting headroom, a straightforward single berth, and generous stowage. With no centerboard trunk intruding into the cabin, the space stays uncluttered and practical for solo cruising.
 
-On the water, the shallow draft lets skippers beach the boat or anchor close to shore with little drama, and the wide, level bottom allows it to take the ground upright. The chine runners supply the pointing ability and tracking that a keel or board would otherwise provide, especially when the boat is sailed fairly upright. Paradox is not a top-end speedster, but it makes steady, predictable miles in the kind of thin water it was built for.
+On the water, the shallow draft lets skippers beach the boat or anchor close to shore with little drama, and the wide, level bottom allows it to take the ground upright. The chine runners are the main talking point of the Paradox design. Together with the hull shape and large rudder, they supply the pointing ability and tracking that a keel or board would otherwise provide, especially when the boat is sailed fairly upright. Paradox is not a top-end speedster, but it makes steady, predictable miles in the kind of thin water it was built for.
 
 ### The community
 
@@ -31,13 +31,6 @@ Paradox did not arrive with fanfare. It spread slowly and steadily. Detailed pla
 In the 2003 Everglades Challenge, a 304-mile coastal race along Florida’s Gulf Coast, Layden’s Paradox surprised many observers by winning its class and finishing first overall. The result highlighted the boat’s strengths. By keeping the skipper dry and rested, allowing inside steering and reefing, and making reliable progress in stable offshore breezes while others worked shifting air near shore, Paradox turned endurance and efficiency into a decisive advantage.
 
 Today it is reasonable to say between 50 and 100 Paradox boats have been started or completed worldwide. The number is modest by production standards, but each build reflects a clear idea: a shallow, tough, minimalist cruiser that rewards careful use and keeps going when the water gets thin.
-
-
-## Key features of the Paradox
-
-The Paradox is a pocket cruiser that looks like a dinghy at first but feels larger once you step inside. At 13 feet 10 inches, or about 4.2 meters, its flat bottom and boxy midsection create useful volume. The structure is simple and stout, with a workboat feel that tolerates beaching, drying out, and hard use. The flat bottom is part of the concept. It lets the boat stand upright when the tide leaves and slide across shoals, and it tends to start conversations at the ramp.
-
-Speed is not the point. The Paradox does not plane like modern performance dinghies and it sits low on its lines. What it offers instead is steady handling and strong initial stability, which makes capsizes far less likely in normal use. It is not a bluewater boat, but it is very capable for coastal cruising and gunkholing, where the shallow draft, low rig, and dry shelter matter most.
 
 ### Key measurements
 
@@ -48,12 +41,31 @@ The Paradox has an overall length of about 13 feet 10 inches, or 4.2 meters. The
 - **Beam:** ~4 ft (1.2 m)
 - **Draft:** ~9 in (23 cm)
 - **Displacement:** ~1400 lbs (640 kg)
+- **Lead Ballast:** ~400 lbs (≈180 kg) under the sole
+- **Fresh Water Ballast:** ~70 L (≈154 lbs / 70 kg) in built-in tanks
+- **Sail Area:** ~100 sq ft (9.3 m²)
+- **Rig Type:** Lug sail (roller-reefing on the boom)
 
-A long waterline for the length helps tracking and carry-through in a tack. The narrow beam keeps trailer weight modest and allows the boat to thread narrow creeks.
 
-### Mast height, sail area, and displacement
+## Paradox, a microcruiser
 
-The rig is a single, boomed lugsail on an unstayed mast, with the sail rolling on the boom for reefing. It is often described as a standing lug, though some call it a balanced lug. The distinction comes down to how much sail and spar lie forward of the mast: here the tack is set close to the mast and only a small area sits ahead of it, so in use it behaves like a standing lug. Because the boom projects slightly forward to carry the furling drum, a little sail area does stand forward of the mast, which is why some describe it as “balanced.” A small drum at the boom’s forward end takes the furling line and lets the boom rotate; reefing is done by rolling sail on the boom and sailing on. All control lines lead inside the cabin. Sail area is about 100 sq ft (9.3 m²). With a displacement near 1,400 lb (about 635 kg), the sail plan is easy to shorten by adding turns on the boom. For road travel the spars can be stowed through the transom hatch; it is a tight fit, but it works once you learn the sequence.
+A pocket cruiser is a small sailboat designed to offer the key traits of a larger cruising yacht—shelter, sleeping space, storage, and seaworthiness—in a compact package that’s easy to handle and maintain. The Paradox is even smaller than most, fitting into the category of a microcruiser. A microcruiser carries all the same hallmarks—self-sufficiency, protection from the elements, and practical cruising ability—but does so in the most compact form possible, making every inch of space and every design choice work double duty.
+
+The Paradox is a microcruiser about the size of a dinghy, but once you step inside, it feels surprisingly roomy. Its boxy shape, flat bottom and wide midsection create useful volume. The structure is simple and stout, with a workboat feel that tolerates beaching, drying out, and hard use. The flat bottom is part of the concept. It lets the boat stand upright when the tide leaves and slide across shoals, and the lack of a keel tends to start conversations at the ramp. Out of the water, with its shoebox profile and prominent chine runners, it can seem like an odd, even awkward shape—the kind that turns heads more out of curiosity than beauty. But once afloat, sitting low and steady, the lines come together and the boat takes on a quiet, purposeful elegance.
+
+On the trailer the Paradox sits low and square, a small, box-shaped hull with hard chines and a flat bottom that rests cleanly on the bunks. The mast is stepped off-center to port, and the rig—yard, boom, and the furled lug sail—lies along the port-side deck, lashed inboard of the rail so nothing projects beyond the trailer wheels. To starboard, the sculling oar (yuloh) is stowed blade-aft along the side, its loom secured at the quarter where it works when afloat. A large, transom-hung rudder stands aft like a barn door, pinned in sturdy gudgeons and tied off for the road. The overall impression is purposeful and compact: a blunt, boxy little cruiser whose fittings are arranged to one side for balance and easy handling, even when she’s still on the trailer.
+
+Don Elliott once remarked that “some builders, for whatever reasons, build crooked boats with gaps, unpainted areas and poorly fitted parts, while others will build a boat like it is a piece of fine furniture, which is perfectly alright”. It’s an observation worth remembering when looking over a Paradox on her trailer. A ‘workboat finish’ will not prevent her from sailing well, and the old adage holds true—many boats are “ten-footers,” looking just fine from ten feet away and performing exactly the same as their high-gloss sisters once on the water. The Paradox’s design, with its boxy lines and unpretentious fittings, lends itself equally well to the careful cabinetmaker’s hand or the practical builder aiming simply for strength, watertightness, and seaworthiness.
+
+### Rig
+
+The Paradox rig is straightforward and practical. It’s a single, boomed lugsail on an unstayed mast that stands about 16 feet (4.88 m) tall. The boom, roughly 13 feet (3.96 m) long, carries the sail along the bottom edge, while the yard, about 15 feet (4.57 m) long, supports the top. There’s no standing rigging to get in the way or maintain.
+
+Some call this a standing lug, others a balanced lug. The difference comes from the small amount of sail and spar forward of the mast. Here, the tack is set close to the mast so it works mainly like a standing lug, but the boom extends a little ahead to hold the furling drum, giving it a hint of the balanced type.
+
+Reefing is simple. A small drum at the front end of the boom holds the furling line and lets the boom rotate. To shorten sail, you just roll it up on the boom, all from inside the cabin. With the control lines led under cover, there’s no need to go on deck when the wind picks up.
+
+When it’s time to travel, the mast, boom, and yard will all pass through an opening in the transom and store inside the boat. The Paradox has one continuous interior space, so the spars can lie along the full length of the hull, much like sliding skis into a car with a ski pass-through.
 
 ### Chine runners
 
@@ -236,7 +248,7 @@ In 2010, Layden successfully competed in the 1200-mile Watertribe Ultimate Chall
 
 ## Chine Runners
 
-The Paradox sailboat’s chine runners offer a distinctive take on small-boat design. While they may appear modest, these horizontal fins enable the boat to handle a wide range of wind and water conditions with noteworthy agility and stability. Unlike traditional appendages such as keels or centerboards, chine runners marry simplicity with usefulness—particularly evident when sailing to windward.
+Often described as a Scheel keel withouth the keel, the Paradox sailboat’s chine runners offer a distinctive take on small-boat design. While they may appear modest, these horizontal fins enable the boat to handle a wide range of wind and water conditions with noteworthy agility and stability. Unlike traditional appendages such as keels or centerboards, chine runners marry simplicity with usefulness—particularly evident when sailing to windward.
 
 Conceived by designer Matt Layden, chine runners consist of thin, horizontal, wing-like structures that extend from the chine—the line where the hull sides meet the bottom. On Paradox they typically span about the middle third of the bottom—roughly one-third of the boat’s length—providing effective lateral area without resorting to a centerboard or leeboard. This is beneficial in shallow waters where deep foils can be impractical, and it shows another workable route to small-boat sailing.
 
