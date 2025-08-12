@@ -32,6 +32,36 @@ In the 2003 Everglades Challenge, a 304-mile coastal race along Florida’s Gulf
 
 Today it is reasonable to say between 50 and 100 Paradox boats have been started or completed worldwide. The number is modest by production standards, but each build reflects a clear idea: a shallow, tough, minimalist cruiser that rewards careful use and keeps going when the water gets thin.
 
+## The Paradox, a microcruiser
+
+Microcruisers are the smallest sailboats that still do the full job of cruising: you can cook, carry stores, sleep aboard, find shelter from weather, put the boat on a trailer, and keep it at home between trips. That’s the working definition many small-craft sailors use, and it captures the appeal: real voyaging in a boat that stays simple, cheap to keep, and easy to move.
+
+### Pocket cruisers and the shift in scale
+The term pocket cruiser once described the smallest of true cruising sailboats—often in the low-20-foot range—able to provide cabin space, galley, and storage in a trailerable or close-to-trailerable size. Over the years, as production boats have grown larger, “pocket” has crept upward; some new models marketed under that name are now 28 or even 30 feet long.
+
+By contrast, the microcruiser pushes in the opposite direction. It distills the same self-sufficient cruising capability into the smallest hull that still works—often 20 feet or less, and sometimes well under that. The focus is not on shrinking a yacht, but on designing from the start for light weight, simple handling, and easy storage.
+
+### The early roots
+In the 1970s and 80s, designer Phil Bolger was exploring how far small boats could go if they were given the right mix of shelter, seaworthiness, and efficiency. His “micro” cruisers, from sharpies to plywood boxes, challenged the assumption that a cruiser needed to be big to be capable. The idea that a small, simple hull could carry a sailor comfortably for days or weeks at a time helped plant the seeds for a movement.
+
+### The Layden years
+In the 1990s, Matt Layden took the concept further. Working on the US east coast, he developed a series of compact, shoal-draft designs—Little Cruiser, Paradox, Enigma—that pushed into genuine offshore and expedition territory. Layden’s own voyages, along with the Bolducs’ Microcruising.com logs, showed these boats making repeated Bahamas passages, cruising for weeks with minimal gear, and even winning events like the 300-mile Everglades Challenge. Paradox in particular demonstrated that an enclosed, inside-sailing microcruiser could be comfortable, safe, and quick over long distances.
+
+### Simplicity for home builders
+Around the same time, Jim Michalak was designing his own take on the small cruiser—boats like Robbsboat—for amateur builders. His plans emphasized straightforward plywood construction, modest rigs, and enough enclosed space for overnighting or protected-water cruising. Many were aimed at lakes and rivers, but the philosophy—cruising without complication or high cost—resonated with a growing audience.
+
+### The modern camp-cruiser
+In the 2000s, John Welsford’s SCAMP helped bring the “camp-cruiser” into wider view: a short but high-volume hull, water ballast for stability, and a small cuddy under a hard dodger. It kept sailors in the open air but offered enough shelter for multi-day trips. SCAMP appealed to those who liked sociable sailing and cockpit living, while boats like Paradox served those who preferred to stay enclosed in poor weather.
+
+### What ties them together
+Despite their differences, these designs share common traits: compact size, usable shelter, storage for gear and food, and the ability to travel without relying on a mooring or marina. The emphasis is on boats you can keep at home, tow to new waters, and manage without a crew.
+
+### Where Paradox sits today
+Paradox stands as one of the more proven microcruisers. It’s small outside, surprisingly capable inside, and built for sailing from the comfort of a protected cabin. Its track record—from coastal cruises to race wins—helped cement the idea that microcruisers can be serious voyaging boats, not just weekend curiosities.
+
+For many owners, that’s the point of the whole movement: useful shelter, simple systems, and low barriers to actually going. The online community—Microcruising.com, Duckworks, Small Craft Advisor, and blogs like Dirty Wet Dog—continues to share ideas, refine designs, and inspire new sailors to go small and go now.
+
+
 ### Key measurements
 
 The Paradox has an overall length of about 13 feet 10 inches, or 4.2 meters. The waterline length is near 13 feet 5 inches, or 4.1 meters. Beam is just over 4 feet, about 1.2 meters. Draft is roughly 9 inches, or 23 centimeters, since there is no centerboard or daggerboard to lower. Displacement in cruising trim is about 1,400 pounds, or 640 kilograms.
@@ -46,18 +76,11 @@ The Paradox has an overall length of about 13 feet 10 inches, or 4.2 meters. The
 - **Sail Area:** ~100 sq ft (9.3 m²)
 - **Rig Type:** Lug sail (roller-reefing on the boom)
 
-
-## Paradox, a microcruiser
-
-A pocket cruiser is a small sailboat designed to offer the key traits of a larger cruising yacht—shelter, sleeping space, storage, and seaworthiness—in a compact package that’s easy to handle and maintain. The Paradox is even smaller than most, fitting into the category of a microcruiser. A microcruiser carries all the same hallmarks—self-sufficiency, protection from the elements, and practical cruising ability—but does so in the most compact form possible, making every inch of space and every design choice work double duty.
-
-The Paradox is a microcruiser about the size of a dinghy, but once you step inside, it feels surprisingly roomy. Its boxy shape, flat bottom and wide midsection create useful volume. The structure is simple and stout, with a workboat feel that tolerates beaching, drying out, and hard use. The flat bottom is part of the concept. It lets the boat stand upright when the tide leaves and slide across shoals, and the lack of a keel tends to start conversations at the ramp. Out of the water, with its shoebox profile and prominent chine runners, it can seem like an odd, even awkward shape—the kind that turns heads more out of curiosity than beauty. But once afloat, sitting low and steady, the lines come together and the boat takes on a quiet, purposeful elegance.
-
 On the trailer the Paradox sits low and square, a small, box-shaped hull with hard chines and a flat bottom that rests cleanly on the bunks. The mast is stepped off-center to port, and the rig—yard, boom, and the furled lug sail—lies along the port-side deck, lashed inboard of the rail so nothing projects beyond the trailer wheels. To starboard, the sculling oar (yuloh) is stowed blade-aft along the side, its loom secured at the quarter where it works when afloat. A large, transom-hung rudder stands aft like a barn door, pinned in sturdy gudgeons and tied off for the road. The overall impression is purposeful and compact: a blunt, boxy little cruiser whose fittings are arranged to one side for balance and easy handling, even when she’s still on the trailer.
 
 Don Elliott once remarked that “some builders, for whatever reasons, build crooked boats with gaps, unpainted areas and poorly fitted parts, while others will build a boat like it is a piece of fine furniture, which is perfectly alright”. It’s an observation worth remembering when looking over a Paradox on her trailer. A ‘workboat finish’ will not prevent her from sailing well, and the old adage holds true—many boats are “ten-footers,” looking just fine from ten feet away and performing exactly the same as their high-gloss sisters once on the water. The Paradox’s design, with its boxy lines and unpretentious fittings, lends itself equally well to the careful cabinetmaker’s hand or the practical builder aiming simply for strength, watertightness, and seaworthiness.
 
-### Rig
+### The rig
 
 The Paradox rig is straightforward and practical. It’s a single, boomed lugsail on an unstayed mast that stands about 16 feet (4.88 m) tall. The boom, roughly 13 feet (3.96 m) long, carries the sail along the bottom edge, while the yard, about 15 feet (4.57 m) long, supports the top. There’s no standing rigging to get in the way or maintain.
 
