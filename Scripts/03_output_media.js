@@ -15,7 +15,7 @@ const SILENCE_FILE = path.join(__dirname, 'input', 'silence_1s.mp3');
 const SILENCE_DURATIONS = {
   title: 2,
   subtitle: 2,
-  chapter: 1,
+  chapter: 2,
   asterisk: 2
 };
 

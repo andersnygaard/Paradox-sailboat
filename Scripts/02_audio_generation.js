@@ -33,7 +33,7 @@ function enhanceTextWithGPT4o(text, fileType, apiKey) {
         let stylePrompt = '';
         switch (fileType) {
             case 'header':
-                stylePrompt = 'You are reading an audiobook. Read the exact text as it is written. Do not add any additional text or explanations. Do not add any additional text or explanations.';
+                stylePrompt = 'You are reading an audiobook. You are reading the header and nothing more. Read the exact text as it is written. Do not add any additional text or explanations. Do not add any additional text or explanations.';
                 break;
             case 'chapter':
             default:
@@ -124,7 +124,7 @@ function textToSpeech(text, apiKey) {
             input: text,
             voice: "ash",
             response_format: "mp3",
-            speed: 1.0
+            speed: 1
         });
 
         // Prepare the request options
@@ -133,6 +133,7 @@ function textToSpeech(text, apiKey) {
             port: 443,
             path: '/v1/audio/speech',
             method: 'POST',
+            instructions: 'You are reading an audio book. Take small pauses for breathing and after paragraphs if natural.',
             headers: {
                 'Content-Type': 'application/json',
                 'Authorization': `Bearer ${apiKey}`,
@@ -197,14 +198,20 @@ async function processFile(filename, apiKey) {
     try {
         console.log(`Processing ${filename} (${fileType})...`);
         
-        // Enhance text with GPT-4o
-        console.log('  Enhancing text with GPT-4o...');
-        const enhancedText = await enhanceTextWithGPT4o(textContent.trim(), fileType, apiKey);
-        console.log('  ✓ Text enhanced');
+        let textToProcess = textContent.trim();
+        
+        // Only enhance text for chapters, not headers
+        if (fileType === 'chapter') {
+            console.log('  Enhancing text with GPT-4o...');
+            textToProcess = await enhanceTextWithGPT4o(textContent.trim(), fileType, apiKey);
+            console.log('  ✓ Text enhanced');
+        } else {
+            console.log('  Skipping text enhancement for header...');
+        }
         
         // Convert to audio
         console.log('  Converting to audio...');
-        const audioBuffer = await textToSpeech(enhancedText, apiKey);
+        const audioBuffer = await textToSpeech(textToProcess, apiKey);
         
         // Save audio file
         fs.writeFileSync(outputPath, audioBuffer);
