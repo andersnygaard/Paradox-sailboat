@@ -444,7 +444,7 @@ One of the most visible builders to explore variations on the Paradox has been M
 
 These few examples show how flexible the Paradox idea can be. While the original design remains as practical as ever, a thoughtful builder can bend the framework without breaking it—testing ideas, solving specific problems, and building boats that reflect their own needs and cruising styles. Each variation continues the core conversation about what a compact, capable cruising boat can be.
 
-### We're gonna need a bigger boat
+### A scaled up Paradox
 
 Paradox’s influence also reaches beyond direct derivatives. Chris Morejohn’s Hogfish boats are his own “modified sharpie” designs, but community threads link their shallow-draft, simple-systems outlook to the same spirit. The original Hogfish, just over 30 ft, carried a ketch plan with a shallow board; Hogfish Maximus grew to 38 ft and combined chine runners with a forward daggerboard and a sloop rig. Glen Maxwell, writing from an Atlantic passage on Hogfish Maximus, reported that the chine runners “work great even at this size,” with the daggerboard used only when clawing hard to windward.
 
