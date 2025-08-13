@@ -451,11 +451,11 @@ Paradox’s influence also reaches beyond direct derivatives. Chris Morejohn’s
 Layden himself explored larger takes on the type. A “Larger Paradox” file lays out a straight 20 percent increase—LOA about 5.04 m (16 ft 6 in), beam about 1.48 m (4 ft 11 in)—as a way to gain volume and range while keeping the architecture intact. Group correspondence also mentions a 23-foot sketch discussed with Morejohn.
 
 
-### The modern small boats
+### Smaller boats
 
-Enigma, Layden’s lighter micro-cruiser that followed Paradox, showed the same philosophy in a smaller, car-toppable package. Group posts put the empty weight around 80 kg (about 180 lb) and note Layden loading it on a compact-car roof using a rack system. Unlike Paradox’s plywood roof, Enigma used a fabric hood/dodger for shelter.
+Matt Layden’s Enigma was a lighter micro-cruiser that carried the same philosophy as Paradox into a smaller, car-toppable package. Group posts describe Layden loading it onto a compact-car roof using a rack system. Unlike Paradox’s plywood cabin roof, Enigma used a fabric hood or dodger for shelter. After later developments in the design family, this original version became known informally as the Enigma 360 to distinguish it from larger successors.
 
-In 2007 Layden drew Enigma 460, and George Van Sickle built the prototype. The 4.6 m (15 ft 1 in) hull kept the narrow beam and shoal draft but adopted a fixed plywood cabin top. Frequently cited particulars from the group give LOA 4.6 m (15 ft 1 in), beam 1,160 mm (45.6 in), draft 186 mm (7⅜ in), empty weight about 120 kg (≈260 lb), minimum removable ballast around 50 kg (≈110 lb), and sail area near 8.86 m² (95 sq ft).
+Years later, a stretched interpretation appeared in the form of the Enigma 460. Layden had drawn the plans, but they were never made available to the public. The prototype was built by George Van Sickle, who documented the project in detail and christened his boat Fantasma. At about 15 feet in length—roughly two feet longer than Paradox—the hull kept the narrow beam and shoal draft that made the earlier Enigma so transportable, but replaced the fabric shelter with a fixed plywood cabin top. Between its watertight bulkheads lay an unbroken interior space, offering more room for stowage and sleeping. Van Sickle added a coated steel plate along the bottom for external ballast and designed the boat to accept additional removable ballast in the form of coated steel plates inside. The result was a boat light enough to handle ashore when empty, yet with the ability to carry substantial weight low down for security under sail. His build notes and photographs reveal a blend of straightforward construction, practical detailing, and a firm connection to Layden’s original micro-cruiser principles.
 
 # Sources
 * [https://groups.io/g/paradoxsailboat](https://groups.io/g/paradoxsailboat)
